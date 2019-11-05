@@ -13,7 +13,7 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 - [Work Experience](#work)  
 - [Projects](#projects)  
 - [Documents](#documents)  
-- [Other Activities](#activities)  
+- [other_acitvities](#activities)  
 ----
 
 ## Website Information! <a name = "webpage"></a>
@@ -72,13 +72,13 @@ CIRA - NOAA Research Lab - Research Assistant and Clmate Researcher
 ----
 
 ## Projects <a name = "projects"></a>
-FPGA Controlled Autonomous "Wall Following Bot"
+FPGA Controlled Autonomous "Wall Following Bot"  
 ![DE2Bot](./assets/DE2Bot.png)
 
 ----
 
 ## Documents <a name = "documents"></a>
-DE2Bot Design Summary and Documentation
+DE2Bot Design Summary and Documentation  
 ![DE2_Design_Summary.pdf](./assets/DE2_Design_Summary.pdf)
 
 ----
@@ -90,7 +90,8 @@ Chess Club
 Studnet Alumni Association
 
 ----
-
+1027 Fossil Creek Drive, Ft. Collins, CO 80526 | 970-689-9505 | matthew.liu@gatech.edu | US Citizen
+----
 
 ```
 
