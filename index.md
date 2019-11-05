@@ -15,17 +15,13 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 - [Documents](#documents)  
 - [Other Activites](#activities)  
 ----
-
 ## Website Information! <a name = "webpage"></a>
 This webpage is a fun independent project created for Technical Communications Class (ECE3005).  
 It is hosted and powered by Github Pages/Jekyll and the theme is by Matt Graham [github](https://github.com/mattgraham)  
 I used Markdown which is a simple, light-weight syntax for styling writing   
 You can fork/clone this project at my github repo [page](https://github.com/matthewliu2000/page)  
-
 ![midnight_theme](./assets/midnight.png)
-
 ----
-
 ## Hobbies and Interests! <a name = "interests"></a>
 **Hobbies!! :** piano, chess, basketball, anime, film, TV series, hiking, snowboarding, skiing, gaming, linux, vim editor  
 **Interests!! :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies 
@@ -33,9 +29,6 @@ You can fork/clone this project at my github repo [page](https://github.com/matt
 ![Piano Performance](./assets/piano.png)
 ![hiking](./assets/glenwoodsprings.jpg)
 ![Vim](./assets/vimlogo.png)
-
-----
-
 ## ECE Courses <a name = "courses"></a>
 [Hardware and Software Programming:](ece2035.ece.gatech.edu) Instruction set architecture datapath and controller, memory (stack, heap, static), data abstractions (structs, arrays, linked lists, hash tables), File I/O, Embedded software, basic concurrency in multicore systems, assembly level programming, procedural abstraction (function calls, activation frames, etc.)  
 
@@ -54,9 +47,7 @@ You can fork/clone this project at my github repo [page](https://github.com/matt
 Also Completed All Core Courses (i.e. Physics, Calculus, Discrete Math, English, etc.)  
 
 See embedded links for more details
-
 ----
-
 ## Work Experience <a name = "work"></a> 
 
 Intel Corporation - RTL Validation Engineering Intern  
@@ -68,13 +59,10 @@ JDL International - IT & Marketing Intern
 
 CIRA - NOAA Research Lab - Research Assistant and Clmate Researcher  
 ![CIRA_NOAA_researchlab](./assets/CIRA.jpg)
-
 ----
-
 ## Projects <a name = "projects"></a>
 FPGA Controlled Autonomous "Wall Following Bot"  
 ![DE2Bot](./assets/DE2Bot.png)
-
 ----
 ## Documents <a name = "documents"></a>
 DE2Bot Design Summary and Documentation  
@@ -95,7 +83,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matthewliu2000/htmlwebpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[repository settings](https://github.com/matthewliu2000/htmlwebpage/settings). Theme saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
