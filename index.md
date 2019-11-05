@@ -8,7 +8,7 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 
 # What to Find Here! <a name ="top"></a>
 - [How to Create this Webpage](#webpage)  
-- [My Interests and Hobbies](#interests)  
+- [My Hobbies and Interests](#interests)  
 - [Courses Completed by Spring 2020 (_w/ descriptions_)](#courses)  
 - [Work Experience](#work)  
 - [Projects](#projects)  
@@ -26,17 +26,15 @@ You can fork/clone this project at my github repo [page](https://github.com/matt
 
 ----
 
-## Interests and Hobbies! <a name = "interests"></a>
+## Hobbies and Interests! <a name = "interests"></a>
 **Hobbies!! :** piano, chess, basketball, anime, film, TV series, hiking, snowboarding, skiing, gaming, linux, vim editor  
 **Interests!! :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies 
 
 ![Piano Performance](./assets/piano.png)
-![hiking](./assets/glenwoodsprings.png)
+![hiking](./assets/glenwoodsprings.jpg)
 ![Vim](./assets/vim.png)
 
 ----
-
-
 
 ## ECE Courses <a name = "courses"></a>
 [Hardware and Software Programming:](ece2035.ece.gatech.edu) Instruction set architecture datapath and controller, memory (stack, heap, static), data abstractions (structs, arrays, linked lists, hash tables), File I/O, Embedded software, basic concurrency in multicore systems, assembly level programming, procedural abstraction (function calls, activation frames, etc.)  
@@ -57,35 +55,43 @@ Also Completed All Core Courses (i.e. Physics, Calculus, Discrete Math, English,
 
 See embedded links for more details
 
+----
+
 ## Work Experience <a name = "work"></a> 
 
+Intel Corporation - RTL Validation Engineering Intern  
+
+![intel](./assets/intel.jpg)
+
+JDL International - IT & Marketing Intern  
+![JDL](./assets/jdl.jpg) 
+
+CIRA - NOAA Research Lab - Research Assistant and Clmate Researcher  
+![CIRA_NOAA_researchlab](./assets/CIA.jpg)
+
+----
+
 ## Projects <a name = "projects"></a>
+FPGA Controlled Autonomous "Wall Following Bot"
+![DE2Bot](./assets/DE2bot.png)
+
+----
 
 ## Documents <a name = "documents"></a>
+DE2Bot Design Summary and Documentation
+![DE2_Design_Summary.pdf](./assets/DE2_Design_Summary.pdf)
+
+----
 
 ## Activites <a name = "activities"></a>
+Phi Sigma Pi - National Honor Fraternity for Scholarship, Leadership, and Fellowship
+Concert Pianist - IKOF silver medalist, orchestra, PianoForte Org
+Chess Club 
+Studnet Alumni Association
+
+----
 
 
-
-# This is where it Ends AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-## Sample Text Shown Below
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
