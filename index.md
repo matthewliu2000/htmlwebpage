@@ -13,7 +13,7 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 - [Work Experience](#work)  
 - [Projects](#projects)  
 - [Documents](#documents)  
-- [Other Activites](#activities)  
+- [Activites](#activities)  
 ----
 ## Website Information! <a name = "webpage"></a>
 This webpage is a fun independent project created for Technical Communications Class (ECE3005).  
@@ -21,14 +21,29 @@ It is hosted and powered by Github Pages/Jekyll and the theme is by Matt Graham 
 I used Markdown which is a simple, light-weight syntax for styling writing   
 You can fork/clone this project at my github repo [page](https://github.com/matthewliu2000/page)  
 ![midnight_theme](./assets/midnight.png)
+
+Back to [Top](#top)!
+
 ----
 ## Hobbies and Interests! <a name = "interests"></a>
-**Hobbies!! :** piano, chess, basketball, anime, film, TV series, hiking, snowboarding, skiing, gaming, linux, vim editor  
-**Interests!! :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies 
+- **Hobbies!! :** piano, chess, basketball, anime, film, TV series, hiking, snowboarding, skiing, gaming, linux, vim editor  
+- **Interests!! :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies   
 
-![Piano Performance](./assets/piano.png)
-![hiking](./assets/glenwoodsprings.jpg)
-![Vim](./assets/vimlogo.png)
+Glenwood Springs - August 2019  
+![hiking](./assets/glenwoodsprings.jpg)  
+
+Steamboat Springs - December 2018  
+![Snowboarding](./assets/snowboarding.jpg)  
+
+Unix/Linux Distributions  
+![unixdist](./assets/unix.png)  
+
+Organ Hall Recorded Performance 2013  
+[Chopin - Fantaisie Impromptu](https://www.youtube.com/watch?v=hCwSzsDiuXU)  
+[Debussy - Children's Corner](https://www.youtube.com/watch?v=o_pqU2owgCs)  
+![Piano Performance](./assets/piano.png)  
+[Bach - French Suite no.6 in E major, Finalist Recital](https://www.youtube.com/watch?v=o_pqU2owgCs)  
+
 ## ECE Courses <a name = "courses"></a>
 [Hardware and Software Programming:](ece2035.ece.gatech.edu) Instruction set architecture datapath and controller, memory (stack, heap, static), data abstractions (structs, arrays, linked lists, hash tables), File I/O, Embedded software, basic concurrency in multicore systems, assembly level programming, procedural abstraction (function calls, activation frames, etc.)  
 
@@ -46,33 +61,37 @@ You can fork/clone this project at my github repo [page](https://github.com/matt
 
 Also Completed All Core Courses (i.e. Physics, Calculus, Discrete Math, English, etc.)  
 
-See embedded links for more details
+See embedded [links](https://matthewliu2000.github.io/page/) for more details
+
 ----
 ## Work Experience <a name = "work"></a> 
 
 Intel Corporation - RTL Validation Engineering Intern  
-
-![intel](./assets/intel.jpg)
+![intel](./assets/intel.jpg)  
 
 JDL International - IT & Marketing Intern  
-![JDL](./assets/JDL.jpg) 
+![JDL](./assets/JDL.jpg)   
 
 CIRA - NOAA Research Lab - Research Assistant and Clmate Researcher  
 ![CIRA_NOAA_researchlab](./assets/CIRA.jpg)
+
 ----
 ## Projects <a name = "projects"></a>
 FPGA Controlled Autonomous "Wall Following Bot"  
-![DE2Bot](./assets/DE2Bot.png)
+![DE2Bot](./assets/DE2Bot.png)  
+
 ----
 ## Documents <a name = "documents"></a>
 DE2Bot Design Summary and Documentation  
 ![DE2_Design_Summary.pdf](./assets/DE2_Design_Summary.pdf)
+
 ----
 ## Activites <a name = "activities"></a>
 Phi Sigma Pi - National Honor Fraternity for Scholarship, Leadership, and Fellowship
-Concert Pianist - IKOF silver medalist, orchestra, PianoForte Org
+Concert Pianist - IKOF silver medalist, Orchestra, PianoForte Org
 Chess Club 
 Student Alumni Association
+
 ----
 1027 Fossil Creek Drive, Ft. Collins, CO 80526 | 970-689-9505 | matthew.liu@gatech.edu | US Citizen
 ----
