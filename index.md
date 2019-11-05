@@ -2,9 +2,11 @@
 
 A little about me upfront, I am a third year undergraduate as a Computer Engineering major attnending Georgia Institute of Technology
 I am currently full time student looking for a summer internship in 2020.
-Here is a [link](https://www.linkedin.com/in/matthew-liu-317aa014b/) to my LinkedIn page
+Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my LinkedIn page.
 
-You can use the [editor on GitHub](https://github.com/matthewliu2000/htmlwebpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## WebPage Details
+This webpage is a fun personal project hosted by Github Pages for Technical Communications Class, and I am using an open source theme maintained by Matt Graham [link](https://github.com/mattgraham)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
