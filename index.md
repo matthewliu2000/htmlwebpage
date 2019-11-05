@@ -13,7 +13,7 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 - [Work Experience](#work)  
 - [Projects](#projects)  
 - [Documents](#documents)  
-- [other_acitvities](#activities)  
+- [Other Activites](#activities)  
 ----
 
 ## Website Information! <a name = "webpage"></a>
@@ -32,7 +32,7 @@ You can fork/clone this project at my github repo [page](https://github.com/matt
 
 ![Piano Performance](./assets/piano.png)
 ![hiking](./assets/glenwoodsprings.jpg)
-![Vim](./assets/vim.png)
+![Vim](./assets/vimlogo.png)
 
 ----
 
@@ -76,24 +76,20 @@ FPGA Controlled Autonomous "Wall Following Bot"
 ![DE2Bot](./assets/DE2Bot.png)
 
 ----
-
 ## Documents <a name = "documents"></a>
 DE2Bot Design Summary and Documentation  
 ![DE2_Design_Summary.pdf](./assets/DE2_Design_Summary.pdf)
-
 ----
-
 ## Activites <a name = "activities"></a>
 Phi Sigma Pi - National Honor Fraternity for Scholarship, Leadership, and Fellowship
 Concert Pianist - IKOF silver medalist, orchestra, PianoForte Org
 Chess Club 
-Studnet Alumni Association
-
+Student Alumni Association
 ----
 1027 Fossil Creek Drive, Ft. Collins, CO 80526 | 970-689-9505 | matthew.liu@gatech.edu | US Citizen
 ----
 
-```
+```markdown
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -104,3 +100,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
