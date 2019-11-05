@@ -19,7 +19,7 @@ It is hosted and powered by Github Pages/Jekyll and the theme is by Matt Graham 
 I used Markdown which is a simple, light-weight syntax for styling writing   
 You can fork/clone this project at my github repo [page](https://github.com/matthewliu2000/page)  
 
-![image]({{matthewliu2000.github.io/page}}/assets/visit-tech.png)
+![image]({{github.com/matthewliu2000/page}}/assets/visit-tech.png)
 
 
 
