@@ -67,6 +67,7 @@ Also Completed All Core Courses (i.e. Physics, Calculus, Discrete Math, English,
 See embedded [links](https://matthewliu2000.github.io/page/) for more details
 
 Back to [Top](#top)!
+
 ----
 ## Work Experience <a name = "work"></a> 
 
