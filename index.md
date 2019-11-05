@@ -44,6 +44,9 @@ Organ Hall Recorded Performance 2013
 ![Piano Performance](./assets/piano.png)  
 [Bach - French Suite no.6 in E major, Finalist Recital](https://www.youtube.com/watch?v=o_pqU2owgCs)  
 
+Back to [Top](#top)!
+
+----
 ## ECE Courses <a name = "courses"></a>
 [Hardware and Software Programming:](ece2035.ece.gatech.edu) Instruction set architecture datapath and controller, memory (stack, heap, static), data abstractions (structs, arrays, linked lists, hash tables), File I/O, Embedded software, basic concurrency in multicore systems, assembly level programming, procedural abstraction (function calls, activation frames, etc.)  
 
@@ -63,6 +66,7 @@ Also Completed All Core Courses (i.e. Physics, Calculus, Discrete Math, English,
 
 See embedded [links](https://matthewliu2000.github.io/page/) for more details
 
+Back to [Top](#top)!
 ----
 ## Work Experience <a name = "work"></a> 
 
@@ -80,10 +84,14 @@ CIRA - NOAA Research Lab - Research Assistant and Clmate Researcher
 FPGA Controlled Autonomous "Wall Following Bot"  
 ![DE2Bot](./assets/DE2Bot.png)  
 
+Back to [Top](#top)!
+
 ----
 ## Documents <a name = "documents"></a>
 DE2Bot Design Summary and Documentation  
 ![DE2_Design_Summary.pdf](./assets/DE2_Design_Summary.pdf)
+
+Back to [Top](#top)!
 
 ----
 ## Activites <a name = "activities"></a>
@@ -92,19 +100,24 @@ Concert Pianist - IKOF silver medalist, Orchestra, PianoForte Org
 Chess Club 
 Student Alumni Association
 
+Back to [Top](#top)!
+
 ----
-1027 Fossil Creek Drive, Ft. Collins, CO 80526 | 970-689-9505 | matthew.liu@gatech.edu | US Citizen
+1027 Fossil Creek Drive, Ft. Collins, CO 80526 | 970-689-9505 | matthew.liu@gatech.edu | US Citizen  
+
 ----
+### Support or Contact
+Website Issues: 1matthewliu2000@gmail.com  
+Professional Contact: matthew.liu@gatech.edu  
 
 ```markdown
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 [repository settings](https://github.com/matthewliu2000/htmlwebpage/settings). Theme saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Starting your own Page? Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact).
 ```
+Back to [Top](#top)!
