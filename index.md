@@ -64,16 +64,16 @@ Intel Corporation - RTL Validation Engineering Intern
 ![intel](./assets/intel.jpg)
 
 JDL International - IT & Marketing Intern  
-![JDL](./assets/jdl.jpg) 
+![JDL](./assets/JDL.jpg) 
 
 CIRA - NOAA Research Lab - Research Assistant and Clmate Researcher  
-![CIRA_NOAA_researchlab](./assets/CIA.jpg)
+![CIRA_NOAA_researchlab](./assets/CIRA.jpg)
 
 ----
 
 ## Projects <a name = "projects"></a>
 FPGA Controlled Autonomous "Wall Following Bot"
-![DE2Bot](./assets/DE2bot.png)
+![DE2Bot](./assets/DE2Bot.png)
 
 ----
 
