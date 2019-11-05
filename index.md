@@ -97,7 +97,7 @@ Back to [Top](#top)!
 ----
 ## Documents <a name = "documents"></a>
 DE2Bot Design Summary and Documentation  
-![DE2_Design_Summary.pdf](./assets/DE2_Design_Summary.pdf)
+[DE2_Design_Summary.pdf](./assets/DE2_Design_Summary.pdf)
 
 Back to [Top](#top)!
 
