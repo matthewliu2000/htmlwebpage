@@ -4,24 +4,22 @@ A little about me! I am a **third year** undergraduate as a **Computer Engineeri
 Full time student looking for a summer internship in 2020.  
 Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my LinkedIn page.
 
-## What's Here!
-My Social Media Handles  
-My Interests and Hobbies  
-Courses Completed by Fall 2020 (_w/ descriptions_)  
-My Previous Employments  
-My Projects  
-Documents and Presentations  
-Clubs and Other Activities  
-
+## What to Find Here!
+- How to Create this Webpage  
+- My Interests and Hobbies  
+- Courses Completed by Fall 2020 (_w/ descriptions_)  
+- My Previous Employments  
+- Documents and Presentations  
+- Clubs and Other Activities  
 
 ## Website Information!
 This webpage is a fun personal project created by myself for Technical Communications Class (ECE3005).  
-It is hosted by Github Pages and the theme is created by Matt Graham github [link](https://github.com/mattgraham)  
-You can fork or clone this project at my github page [link](https://github.com/matthewliu2000/page)
+It is hosted and powered by Github Pages/Jekyll and the theme is by Matt Graham [github](https://github.com/mattgraham)  
+I used Markdown which is a simple, light-weight syntax for styling writing   
+You can fork/clone this project at my github repo [page](https://github.com/matthewliu2000/page)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Interests and Hobbies
 
 ```markdown
 Syntax highlighted code block
