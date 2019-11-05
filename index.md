@@ -1,5 +1,6 @@
 ## Welcome to My Webpage
 
+A little about me! I am a third year undergraduate as a Computer Engineering major studying at Georgia Institute of Technology.
 Full time student looking for a summer internship in 2020.  
 Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my LinkedIn page.
 
