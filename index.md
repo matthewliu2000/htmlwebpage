@@ -88,6 +88,10 @@ Back to [Top](#top)!
 FPGA Controlled Autonomous "Wall Following Bot"  
 ![DE2Bot](./assets/DE2Bot.png)  
 
+RPG Game made with MBED Hardware and Programmed in C
+[Video Recording of Game + Playthrough](https://www.youtube.com/watch?v=Wtsbtr2bRxA&t=252s)  
+![MbedHardware](./assets/mbedhardware.png)  
+
 Back to [Top](#top)!
 
 ----
