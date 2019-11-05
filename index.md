@@ -20,7 +20,7 @@ Here is a [link](https://github.com/matthewliu2000/page) to my github page.
 ----
 ## Website Information! <a name = "webpage"></a>
 This webpage is a fun independent project created for Technical Communications Class (ECE3005).  
-It is hosted and powered by Github Pages/Jekyll and the theme is by Matt Graham [github](https://github.com/mattgraham)  
+It is hosted and powered by Github Pages/Jekyll and the original theme is by [Matt Graham](https://github.com/mattgraham)  
 I used Markdown which is a simple, light-weight syntax for styling writing   
 You can fork/clone this project at my github [repository page](https://github.com/matthewliu2000/page)  
 ![midnight_theme](./assets/midnight.png)
@@ -74,13 +74,13 @@ Back to [Top](#top)!
 ----
 ## Work Experience <a name = "work"></a> 
 
-Intel Corporation - RTL Validation Engineering Intern  
+[Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) - RTL Validation Engineering Intern  
 ![intel](./assets/intel.jpg)  
 
-JDL International - IT & Marketing Intern  
+[JDL International - IT & Marketing Intern](https://jdlinternationalinc.com/)  
 ![JDL](./assets/JDL.jpg)   
 
-CIRA - NOAA Research Lab - Research Assistant and Clmate Researcher  
+[CIRA](https://www.cira.colostate.edu/) - NOAA Research Lab - Research Assistant and Climate Researcher  
 ![CIRA_NOAA_researchlab](./assets/CIRA.jpg)
 
 ----
@@ -99,10 +99,10 @@ Back to [Top](#top)!
 
 ----
 ## Activites <a name = "activities"></a>
-Phi Sigma Pi - National Honor Fraternity for Scholarship, Leadership, and Fellowship
-Concert Pianist - IKOF silver medalist, Orchestra, PianoForte Org
-Chess Club 
-Student Alumni Association
+Phi Sigma Pi - National Honor Fraternity for Scholarship, Leadership, and Fellowship  
+Concert Pianist - IKOF silver medalist, Orchestra, PianoForte Org  
+Chess Club   
+Student Alumni Association  
 
 Back to [Top](#top)!
 
