@@ -51,7 +51,7 @@ Back to [Top](#top)!
 
 ----
 ## ECE Courses <a name = "courses"></a>
-[Hardware and Software Programming:](ece2035.ece.gatech.edu) Instruction set architecture datapath and controller, memory (stack, heap, static), data abstractions (structs, arrays, linked lists, hash tables), File I/O, Embedded software, basic concurrency in multicore systems, assembly level programming, procedural abstraction (function calls, activation frames, etc.)  
+[Hardware and Software Programming:](https://ece2035.ece.gatech.edu) Instruction set architecture datapath and controller, memory (stack, heap, static), data abstractions (structs, arrays, linked lists, hash tables), File I/O, Embedded software, basic concurrency in multicore systems, assembly level programming, procedural abstraction (function calls, activation frames, etc.)  
 
 [Digital Design Laboratory:](https://www.ece.gatech.edu/courses/course_outline/ECE2031) implement simple computer within a PLD, VHDL (design, implement, simulate circuits), design with graphical CAD tools, machine language and assembly language programs for simple computer, FPGAs, HDL based simulation and synthesis with FPGAs, oscilloscope, logic analyzer, timing simulation, state machine implementation, design verification with logic analyzer, combinational design using primitive gates, schematic capture, and VHDL  
 
@@ -84,13 +84,23 @@ Back to [Top](#top)!
 ![CIRA_NOAA_researchlab](./assets/CIRA.jpg)
 
 ----
-## Projects <a name = "projects"></a>
+## School Projects <a name = "projects"></a>
 FPGA Controlled Autonomous "Wall Following Bot"  
 ![DE2Bot](./assets/DE2Bot.png)  
+github repo:   
 
 RPG Game made with MBED Hardware and Programmed in C
 [Video Recording of Game + Playthrough](https://www.youtube.com/watch?v=Wtsbtr2bRxA&t=252s)  
 ![MbedHardware](./assets/mbedhardware.png)  
+github repo:   
+
+Pacman Game with MBED Hardware and Programmed in C++  
+github repo:   
+
+
+Heap Data Structure developed w/ linked list implemented in C  
+github repo:   
+
 
 Back to [Top](#top)!
 
