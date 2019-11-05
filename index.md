@@ -26,7 +26,7 @@ Template to follow
 
 ![image test1]({{github.com/matthewliu2000/page}}/assets/visit-tech.png)
 ![image test2]({{github.com/matthewliu2000/page/tree/master}}/assets/visit-tech.png)
-![image test3]({{github.com/matthewliu2000/page}}/assets/visit-tech.png)
+![image test3](./assets/visit-tech.png)
 ![image test4]({{github.com/matthewliu2000/page}}/assets/visit-tech.png)
 
 
