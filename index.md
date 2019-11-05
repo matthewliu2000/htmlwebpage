@@ -9,6 +9,7 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 - My Interests and Hobbies  
 - Courses Completed by Fall 2020 (_w/ descriptions_)  
 - My Previous Employments  
+- My Projects  
 - Documents and Presentations  
 - Clubs and Other Activities  
 
