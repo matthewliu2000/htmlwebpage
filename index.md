@@ -4,6 +4,8 @@ A little about me! I am a **third year** undergraduate as a **Computer Engineeri
 Full time student looking for a summer internship in 2020.  
 Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my LinkedIn page.
 
+![Georgia Tech](./assets/visit-tech.png)
+
 ## What to Find Here!
 - How to Create this Webpage  
 - My Interests and Hobbies  
@@ -19,24 +21,10 @@ It is hosted and powered by Github Pages/Jekyll and the theme is by Matt Graham 
 I used Markdown which is a simple, light-weight syntax for styling writing   
 You can fork/clone this project at my github repo [page](https://github.com/matthewliu2000/page)  
 
-Template to follow 
-```markdown
-![useful image]({{ site.url }}/assets/image.png)
-```
-
-![image test1]({{github.com/matthewliu2000/page}}/assets/visit-tech.png)
-![image test2]({{github.com/matthewliu2000/page/tree/master}}/assets/visit-tech.png)
-![image test3](./assets/visit-tech.png)
-![image test4]({{github.com/matthewliu2000/page}}/assets/visit-tech.png)
-
-
-
+![midnight_theme](./assets/midnight.png)
 
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-
-
-
 
 
 
