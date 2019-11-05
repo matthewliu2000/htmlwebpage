@@ -7,8 +7,8 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 ![Georgia Tech](./assets/visit-tech.png)
 
 # What to Find Here!
-- [Example] (#example)
-- [Example2] (#example2)
+- [Introduction](#introduction)
+- [Some Paragraph](#paragraph1)
 - How to Create this Webpage  
 - My Interests and Hobbies  
 - Courses Completed by Fall 2020 (_w/ descriptions_)  
@@ -17,11 +17,11 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 - Documents and Presentations  
 - Clubs and Other Activities  
 
-## Example
-This is a test \
+## This is a test Introduction <a name ="introduction"></a>
+This is a test\
 this is a test\
 
-## Example2
+## This is an example paragraph <a name ="paragraph1"></a>
 
 ## Website Information!
 This webpage is a fun personal project created by myself for Technical Communications Class (ECE3005).  
