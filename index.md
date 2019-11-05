@@ -1,29 +1,25 @@
-## Welcome to My Webpage!!!
+# Welcome to My Webpage!!!
 
 A little about me! I am a **third year** undergraduate as a **Computer Engineering** major studying at **Georgia Institute of Technology**.
-Full time student looking for a summer internship in 2020.  
+Full time student looking for a summer internship in 2020. I finish undergraduate studies in Spring 2021, and I plan to pursue a higher degree.  
 Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my LinkedIn page.
 
 ![Georgia Tech](./assets/visit-tech.png)
 
-# What to Find Here!
-- [Introduction](#introduction)
-- [Some Paragraph](#paragraph1)
-- How to Create this Webpage  
-- My Interests and Hobbies  
-- Courses Completed by Fall 2020 (_w/ descriptions_)  
-- My Previous Employments  
-- My Projects  
-- Documents and Presentations  
-- Clubs and Other Activities  
+# What to Find Here! <a name ="top"></a>
+- [How to Create this Webpage](#webpage)  
+- [My Interests and Hobbies](#interests)  
+- [Courses Completed by Spring 2020 (_w/ descriptions_)](#courses)  
+- [Work Experience](#work)  
+- [Projects](#projects)  
+- [Documents](#documents)  
+- [Other Activities](#activities)  
 
 ## This is a test Introduction <a name ="introduction"></a>
-This is a test\
-this is a test\
 
 ## This is an example paragraph <a name ="paragraph1"></a>
 
-## Website Information!
+## Website Information! <a name = "webpage"></a>
 This webpage is a fun personal project created by myself for Technical Communications Class (ECE3005).  
 It is hosted and powered by Github Pages/Jekyll and the theme is by Matt Graham [github](https://github.com/mattgraham)  
 I used Markdown which is a simple, light-weight syntax for styling writing   
@@ -32,11 +28,18 @@ You can fork/clone this project at my github repo [page](https://github.com/matt
 ![midnight_theme](./assets/midnight.png)
 
 
-
-## Interests and Hobbies!
-
+## Interests and Hobbies! <a name = "interests"></a>
 
 
+## Courses <a name = "courses"></a>
+
+## Work Experience <a name = "work"></a> 
+
+## Projects <a name = "projects"></a>
+
+## Documents <a name = "documents"></a>
+
+## Activites <a name = "activities"></a>
 
 
 
