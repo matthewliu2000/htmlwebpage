@@ -17,10 +17,25 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 This webpage is a fun personal project created by myself for Technical Communications Class (ECE3005).  
 It is hosted and powered by Github Pages/Jekyll and the theme is by Matt Graham [github](https://github.com/mattgraham)  
 I used Markdown which is a simple, light-weight syntax for styling writing   
-You can fork/clone this project at my github repo [page](https://github.com/matthewliu2000/page)
+You can fork/clone this project at my github repo [page](https://github.com/matthewliu2000/page)  
+
+![useful image]({{ https://github.com/matthewliu2000/page}}/assets/image.png)
 
 
-## Interests and Hobbies
+
+
+
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+
+
+
+
+
+
+
+## Interests and Hobbies!
 
 ```markdown
 Syntax highlighted code block
