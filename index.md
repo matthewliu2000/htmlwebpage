@@ -15,10 +15,6 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 - [Documents](#documents)  
 - [Other Activities](#activities)  
 
-## This is a test Introduction <a name ="introduction"></a>
-
-## This is an example paragraph <a name ="paragraph1"></a>
-
 ## Website Information! <a name = "webpage"></a>
 This webpage is a fun personal project created by myself for Technical Communications Class (ECE3005).  
 It is hosted and powered by Github Pages/Jekyll and the theme is by Matt Graham [github](https://github.com/mattgraham)  
@@ -29,9 +25,31 @@ You can fork/clone this project at my github repo [page](https://github.com/matt
 
 
 ## Interests and Hobbies! <a name = "interests"></a>
+**Hobbies!! :** piano, chess, basketball, anime, film, TV series, hiking, snowboarding, skiing, gaming, linux, vim editor  
+**Interests!! :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies 
+
+----
 
 
-## Courses <a name = "courses"></a>
+
+## ECE Courses <a name = "courses"></a>
+[Hardware and Software Programming:](ece2035.ece.gatech.edu) Instruction set architecture datapath and controller, memory (stack, heap, static), data abstractions (structs, arrays, linked lists, hash tables), File I/O, Embedded software, basic concurrency in multicore systems, assembly level programming, procedural abstraction (function calls, activation frames, etc.)  
+
+[Digital Design Laboratory:](https://www.ece.gatech.edu/courses/course_outline/ECE2031) implement simple computer within a PLD, VHDL (design, implement, simulate circuits), design with graphical CAD tools, machine language and assembly language programs for simple computer, FPGAs, HDL based simulation and synthesis with FPGAs, oscilloscope, logic analyzer, timing simulation, state machine implementation, design verification with logic analyzer, combinational design using primitive gates, schematic capture, and VHDL  
+
+[Circuit Analysis:](https://www.ece.gatech.edu/courses/course_outline/ECE2040) Voltage, Current, Power, Energy, Kirchoff, linearity, superposition, Thevenin, Norton, Op Amps, first and second order circuits, RLC circuits, forcing functions, sinusoidal steady-state analysis, resonance, phasors, impedance, power analysis (instantaneous and average power, complex power, max power transfer)  
+
+[Signal Processing:](https://www.ece.gatech.edu/courses/course_outline/ECE2026) Phasors, sinusoids, harmonics, spectrogram analysis, Fourier series synthesis and analysis, aliasing, folding, continuous vs discrete time domains, convolution, filters (low, high, bandpass), DFT, Z-transform for FIR, MATLAB, Image enhancement, Time frequency analysis, sound and music synthesis, sample reconstruction  
+
+[Math Foundations for Computer Engineering:](http://blough.ece.gatech.edu/3020/outline.pdf) discrete math, proofs, computational complexity, Fast Fourier transform, error detection and correction codes (parity coding), data abstractions, graph theory (trees, lists, Prim’s, Dykstra’s algorithms, etc.), regular expressions, state minimization, algorithms (searching, sorting, closest path, recursion etc.)  
+
+[Physical Foundations for Computer Engineering:](https://www.ece.gatech.edu/courses/course_outline/ECE3030) Physical Implementation of a bit (barrier model), physics of CMOS based computation (semiconductor physics, MOSFET and device physics, switches as computing devices), physics of data communication via propagation through wire, alternative computing models (quantum computing)  
+
+[Computer Architecture, Systems, Concurrency and Energy in Computation:](https://www.ece.gatech.edu/courses/course_outline/ECE3057) instruction set architecture (mutli-cycle data path and control, controller implementation), CPU pipeline (hazards and solutions, branch prediction), Memory Systems (caches, main memory, virtual memory basics, OS level algorithms), Concurrency (threads, ILP, DLP, TLP), Energy and Power dissipation (microarchitecture-level, power virus, kernel benchmarks), I/O architecture and operating system support, CPU scheduling  
+
+Also Completed All Core Courses (i.e. Physics, Calculus, Discrete Math, English, etc.)  
+
+See embedded links for more details
 
 ## Work Experience <a name = "work"></a> 
 
@@ -43,7 +61,7 @@ You can fork/clone this project at my github repo [page](https://github.com/matt
 
 
 
-### This is where it Ends AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+# This is where it Ends AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ## Sample Text Shown Below
 
 ```markdown
