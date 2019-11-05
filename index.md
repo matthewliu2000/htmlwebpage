@@ -14,19 +14,25 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 - [Projects](#projects)  
 - [Documents](#documents)  
 - [Other Activities](#activities)  
+----
 
 ## Website Information! <a name = "webpage"></a>
-This webpage is a fun personal project created by myself for Technical Communications Class (ECE3005).  
+This webpage is a fun independent project created for Technical Communications Class (ECE3005).  
 It is hosted and powered by Github Pages/Jekyll and the theme is by Matt Graham [github](https://github.com/mattgraham)  
 I used Markdown which is a simple, light-weight syntax for styling writing   
 You can fork/clone this project at my github repo [page](https://github.com/matthewliu2000/page)  
 
 ![midnight_theme](./assets/midnight.png)
 
+----
 
 ## Interests and Hobbies! <a name = "interests"></a>
 **Hobbies!! :** piano, chess, basketball, anime, film, TV series, hiking, snowboarding, skiing, gaming, linux, vim editor  
 **Interests!! :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies 
+
+![Piano Performance](./assets/piano.png)
+![hiking](./assets/glenwoodsprings.png)
+![Vim](./assets/vim.png)
 
 ----
 
