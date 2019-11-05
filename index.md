@@ -4,11 +4,10 @@ A little about me upfront, I am a third year undergraduate as a Computer Enginee
 I am currently full time student looking for a summer internship in 2020.
 Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my LinkedIn page.
 
-## WebPage Details
-This webpage is a fun personal project hosted by Github Pages for Technical Communications Class, and I am using an open source theme maintained by Matt Graham [link](https://github.com/mattgraham)
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Website Development
+This webpage is a fun personal project created by myself for Technical Communications Class (ECE3005)
+It is hosted by Github Pages and the theme is created by Matt Graham github [link](https://github.com/mattgraham)
+You can fork or clone this project at my github page [link](https://github.com/matthewliu2000/page)
 
 ### Markdown
 
