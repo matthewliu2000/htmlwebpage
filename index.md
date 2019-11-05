@@ -6,7 +6,9 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 
 ![Georgia Tech](./assets/visit-tech.png)
 
-## What to Find Here!
+# What to Find Here!
+- [Example] (#example)
+- [Example2] (#example2)
 - How to Create this Webpage  
 - My Interests and Hobbies  
 - Courses Completed by Fall 2020 (_w/ descriptions_)  
@@ -14,6 +16,12 @@ Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my Linke
 - My Projects  
 - Documents and Presentations  
 - Clubs and Other Activities  
+
+## Example
+This is a test \
+this is a test\
+
+## Example2
 
 ## Website Information!
 This webpage is a fun personal project created by myself for Technical Communications Class (ECE3005).  
@@ -24,13 +32,16 @@ You can fork/clone this project at my github repo [page](https://github.com/matt
 ![midnight_theme](./assets/midnight.png)
 
 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-
-
-
-
 
 ## Interests and Hobbies!
+
+
+
+
+
+
+### This is where it Ends AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+## Sample Text Shown Below
 
 ```markdown
 Syntax highlighted code block
