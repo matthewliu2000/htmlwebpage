@@ -16,7 +16,6 @@ Here is a [link](https://github.com/matthewliu2000/page) to my github page.
 - [Documents](#documents)  
 - [Activites](#activities)  
 - [Contact and Support](#contact)
-
 ----
 ## Website Information! <a name = "webpage"></a>
 This webpage is a fun independent project created for Technical Communications Class (ECE3005).  
@@ -26,7 +25,6 @@ You can fork/clone this project at my github [repository page](https://github.co
 ![midnight_theme](./assets/midnight.png)
 
 Back to [Top](#top)!
-
 ----
 ## Hobbies and Interests! <a name = "interests"></a>
 - **Hobbies!! :** piano, chess, basketball, anime, film, TV series, hiking, snowboarding, skiing, gaming, linux, vim editor  
@@ -40,6 +38,10 @@ Steamboat Springs - December 2018
 
 Unix/Linux Distributions  
 ![unixdist](./assets/unix.png)  
+
+Pieces being worked on currently:  
+- Glinka-Balakirev: The Lark  
+- Rachminoff Prelude op23 no5   
 
 Organ Hall Recorded Performance 2013  
 [Chopin - Fantaisie Impromptu](https://www.youtube.com/watch?v=hCwSzsDiuXU)  
@@ -101,18 +103,23 @@ github repo:
 Heap Data Structure developed w/ linked list implemented in C  
 github repo:   
 
-
 Back to [Top](#top)!
 
 ----
 ## Documents <a name = "documents"></a>
-DE2Bot Design Summary and Documentation  
-[DE2_Design_Summary.pdf](./assets/DE2_Design_Summary.pdf)
+DE2Bot Design Summary and Documentation:  
+[DE2_Design_Summary.docx](./assets/projectdesignsummWorking.docx)  
+Presentation:  
+[DE2_Bot_Proposal](./assets/Running_Rock.pptx)  
+
+Short Technical Write-Ups  
+1. [Propagation_Delay_and_Oscilloscope_Measurements.pdf](./assets/LabReport3_final_version_3.pdf)  
+2. [IOT_RiskBenefitStudy.docx](./assets/IoT_ResearchPaper.docx)  
 
 Back to [Top](#top)!
 
 ----
-## Activites <a name = "activities"></a>
+## Activities <a name = "activities"></a>
 Phi Sigma Pi - National Honor Fraternity for Scholarship, Leadership, and Fellowship  
 Concert Pianist - IKOF silver medalist, Orchestra, PianoForte Org  
 Chess Club   
