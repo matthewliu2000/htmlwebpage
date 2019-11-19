@@ -15,7 +15,8 @@ Here is a [link](https://github.com/matthewliu2000/page) to my github page.
 - [Projects](#projects)  
 - [Documents](#documents)  
 - [Activites](#activities)  
-- [Contact and Support](#contact)
+- [Contact and Support](#contact)  
+
 ----
 ## Website Information! <a name = "webpage"></a>
 This webpage is a fun independent project created for Technical Communications Class (ECE3005).  
