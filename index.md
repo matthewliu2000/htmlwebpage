@@ -4,7 +4,7 @@ A little about me! I am a **third year** undergraduate as a **Computer Engineeri
 Full time student looking for a summer internship in 2020. I finish undergraduate studies in Spring 2021, and I plan to pursue a higher degree.  
 Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my LinkedIn page.  
 Here is a [link](https://github.com/matthewliu2000/page) to my github page.  
-
+Here is a download [link](./assets/Matthew_Liu_CV_Oct25_2019.docx) for my resume.  
 ![Georgia Tech](./assets/visit-tech.png)
 
 # What to Find Here! <a name ="top"></a>
