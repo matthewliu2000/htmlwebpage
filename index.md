@@ -83,20 +83,28 @@ CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA 
 
 ----
 ## School Projects <a name = "projects"></a>
-FPGA Controlled Autonomous "Wall Following Bot"  
+**FPGA Controlled Autonomous "Wall Following Bot"**  
+(see [below](#documents) for documentation)   
+HW and SW Programmer, ECE Department, ECE2031  
+Collective effort of four computer engineering and science majors  
+- Developed an algorithm for wall following with a team of four computer engineering students by programming a DE2 board modified amigo bot (used Intel Quartus CAD tool for design)  
+- Partially programmed the simple programmable computer (used by the amigobot) onto a FPGA with a processor, memory, and IO bus for interfacing with peripheral devices  
 ![DE2Bot](./assets/DE2Bot.png)  
 github repo:   
 
-RPG Game made with MBED Hardware and Programmed in C
+**RPG Game made with MBED Hardware and Programmed in C**  
+HW Design and Programmer, ECE Department, ECE2035  
+- Independently developed a RPG, quest-based game using Mbed hardware.  
+- Constructed a gaming circuit, coded in C, hash table data structure, OOP, interface between hardware and software  
 [Video Recording of Game + Playthrough](https://www.youtube.com/watch?v=Wtsbtr2bRxA&t=252s)  
 ![MbedHardware](./assets/mbedhardware.png)  
 github repo:   
 
-Pacman Game with MBED Hardware and Programmed in C++  
+**Pacman Game with MBED Hardware and Programmed in C++**   
 github repo:   
 
 
-Heap Data Structure developed w/ linked list implemented in C  
+**Heap Data Structure developed w/ linked list implemented in C**  
 github repo:   
 
 Back to [Top](#top)!
