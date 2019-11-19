@@ -143,7 +143,10 @@ Back to [Top](#top)!
 ----
 ## Activities <a name = "activities"></a>
 Phi Sigma Pi - National Honor Fraternity for Scholarship, Leadership, and Fellowship  
-Concert Pianist - IKOF silver medalist, Orchestra, PianoForte Org  
+![phisigmapi](./assets/psp.jpg)  
+Concert Pianist - IKOF silver medalist[competition information](http://odyssiad.com/), Orchestra, PianoForte Org  
+![ikof](./assets/ikof.jpg)   
+![pianoforte](./assets/pianoforte.png)  
 Chess Club   
 Student Alumni Association  
 
