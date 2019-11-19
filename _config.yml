@@ -5,5 +5,6 @@ description: Hi! I'm Matthew, I like Computers and Engineering!
 twitter_username: matthewliu2000
 github_username: matthewliu2000
 author: matthew.liu@gatech.edu
-
+github:
+  is_project_page: false
 
