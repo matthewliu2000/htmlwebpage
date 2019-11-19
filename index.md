@@ -1,7 +1,7 @@
 # Welcome to My Webpage!!!
 
-A little about me! I am a **third year** undergraduate as a **Computer Engineering** major studying at **Georgia Institute of Technology**.
-Full time student looking for a summer internship in 2020. I finish undergraduate studies in Spring 2021, and I plan to pursue a higher degree.  
+A little about me! I am from Fort Collins, Colorado, and I am a **third year** undergraduate studying **Computer Engineering** at **Georgia Institute of Technology**.
+Full time student looking for a summer internship in 2020, complete undergraduate studies in Spring 2021, and plan to pursue a higher degree.  
 Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my LinkedIn page.  
 Here is a [link](https://github.com/matthewliu2000/page) to my github page.  
 Here is a download [link](./assets/Matthew_Liu_CV_Oct25_2019.docx) for my resume.  
@@ -60,13 +60,26 @@ Back to [Top](#top)!
 ## Work Experience <a name = "work"></a> 
 
 [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) - RTL Validation Engineering Intern  
+- Contributed to development of new BFM within pre-silicon validation environment for modeling power management firmware responses by improving code modularity and resuse and minimized reliance on firmware to validate RTL  
+- For supported regression tests, the BFM reduces CPU model time by 27% and total cycles by 75%, enabling more efficient, more reliable, and timelier validation  
 ![intel](./assets/intel.jpg)  
 
 [JDL International - IT & Marketing Intern](https://jdlinternationalinc.com/)  
+Waste water treatment company that develops and designs modular, on-site bioreactor technology to treat contaminated water. The company works with public and private organizations, like the UN, whom are concerned with environmental protection  
+- Contributed in a variety of different IT, engineering, and marketing roles  
+- Improved, fixed, and identified bugs on company website  
+- Procured and conducted data analysis of water quality before and after FMBR treatme  
+- Participated and observed an on-site installation of equipmen  
+- Attended trade shows, conferences, and onsite trainings on environmental protection  
 ![JDL](./assets/JDL.jpg)   
 
 [CIRA](https://www.cira.colostate.edu/) - NOAA Research Lab - Research Assistant and Climate Researcher  
+CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA research scientists
+- Gathered NOAA weather station data, parsed and analyzed the data (CSV files), with Fortran models, MATLAB, and GrADs (atmospheric science visual data analysis tool) and presented at Third Pole Environmental Conference
+- Worked with senior research scientist, Dr. Glen Liston to perform data analysis and modeling on regional conditional variations specifically within the Rocky Mountains, Alaska, and Greenland Ice sheets
 ![CIRA_NOAA_researchlab](./assets/CIRA.jpg)
+![grads](./assets/grads.png)
+![snowdensity](./assets/snowden.png)
 
 ----
 ## School Projects <a name = "projects"></a>
