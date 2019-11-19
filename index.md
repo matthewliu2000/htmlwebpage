@@ -9,6 +9,7 @@ Here is a [link](https://github.com/matthewliu2000/page) to my github page.
 
 # What to Find Here! <a name ="top"></a>
 - [How to Create this Webpage](#webpage)  
+- [Quick Bio and Career Goal](#aboutme)  
 - [Courses Completed by Spring 2020 (_w/ descriptions_)](#courses)  
 - [Work Experience](#work)  
 - [Projects](#projects)  
@@ -26,6 +27,12 @@ You can fork/clone this project at my github [repository page](https://github.co
 ![midnight_theme](./assets/midnight.png)
 
 Back to [Top](#top)!
+
+---
+## Quick Bio <a name = "aboutme"></a>
+Third year Computer Engineer Student at Georgia Tech with industry experience in hardware engineering specializing in pre-silicon validation within an SoC. Adaptable, resourceful, and adept at working in focused and collaborative environments, debugging problems during testing, and creating or finding solutions. Successful in climate research and other multi-disciplinary internships. Actively looking for hardware design engineering internships and co-ops Spring and Summer 2020.  
+
+My career goal is to immerse myself with comprehensive, interdisciplinary knowledge in computer engineering and computer science, and become well trained in integrating hardware and software, as well as application of engineering concepts and methods to computer systems engineering and design. I aim to achieve a masters or doctorate degree in ECE from which I hope to pursue work in research or industry.  
 
 ----
 ## ECE Courses <a name = "courses"></a>
