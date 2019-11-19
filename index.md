@@ -14,7 +14,7 @@ Here is a download [link](./assets/Matthew_Liu_CV_Oct25_2019.docx) for my resume
 - [Work Experience](#work)  
 - [Projects](#projects)  
 - [Documents](#documents)  
-- [Activites](#activities)  
+- [Activities](#activities)  
 - [My Hobbies and Interests](#interests)  
 - [Contact and Support](#contact)  
 
