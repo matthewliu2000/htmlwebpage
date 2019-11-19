@@ -9,12 +9,12 @@ Here is a [link](https://github.com/matthewliu2000/page) to my github page.
 
 # What to Find Here! <a name ="top"></a>
 - [How to Create this Webpage](#webpage)  
-- [My Hobbies and Interests](#interests)  
 - [Courses Completed by Spring 2020 (_w/ descriptions_)](#courses)  
 - [Work Experience](#work)  
 - [Projects](#projects)  
 - [Documents](#documents)  
 - [Activites](#activities)  
+- [My Hobbies and Interests](#interests)  
 - [Contact and Support](#contact)  
 
 ----
@@ -24,31 +24,6 @@ It is hosted and powered by Github Pages/Jekyll and the original theme is by [Ma
 I used Markdown which is a simple, light-weight syntax for styling writing   
 You can fork/clone this project at my github [repository page](https://github.com/matthewliu2000/page)  
 ![midnight_theme](./assets/midnight.png)
-
-Back to [Top](#top)!
-----
-## Hobbies and Interests! <a name = "interests"></a>
-- **Hobbies!! :** piano, chess, basketball, anime, film, TV series, hiking, snowboarding, skiing, gaming, linux, vim editor  
-- **Interests!! :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies   
-
-Glenwood Springs - August 2019  
-![hiking](./assets/glenwoodsprings.jpg)  
-
-Steamboat Springs - December 2018  
-![Snowboarding](./assets/snowboarding.png)  
-
-Unix/Linux Distributions  
-![unixdist](./assets/unix.png)  
-
-Pieces being worked on currently:  
-- Glinka-Balakirev: The Lark  
-- Rachminoff Prelude op23 no5   
-
-Organ Hall Recorded Performance 2013  
-[Chopin - Fantaisie Impromptu](https://www.youtube.com/watch?v=hCwSzsDiuXU)  
-[Debussy - Children's Corner](https://www.youtube.com/watch?v=o_pqU2owgCs)  
-![Piano Performance](./assets/piano.png)  
-[Bach - French Suite no.6 in E major, Finalist Recital](https://www.youtube.com/watch?v=o_pqU2owgCs)  
 
 Back to [Top](#top)!
 
@@ -116,6 +91,32 @@ Presentation:
 Short Technical Write-Ups  
 1. [Propagation_Delay_and_Oscilloscope_Measurements.pdf](./assets/LabReport3_final_version_3.pdf)  
 2. [IOT_RiskBenefitStudy.docx](./assets/IoT_ResearchPaper.docx)  
+
+Back to [Top](#top)!
+
+---
+## Hobbies and Interests! <a name = "interests"></a>
+- **Hobbies!! :** piano, chess, basketball, anime, film, TV series, hiking, snowboarding, skiing, gaming, linux, vim editor  
+- **Interests!! :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies   
+
+Glenwood Springs - August 2019  
+![hiking](./assets/glenwoodsprings.jpg)  
+
+Steamboat Springs - December 2018  
+![Snowboarding](./assets/snowboarding.png)  
+
+Unix/Linux Distributions  
+![unixdist](./assets/unix.png)  
+
+Pieces being worked on currently:  
+- Glinka-Balakirev: The Lark  
+- Rachminoff Prelude op23 no5   
+
+Organ Hall Recorded Performance 2013  
+[Chopin - Fantaisie Impromptu](https://www.youtube.com/watch?v=hCwSzsDiuXU)  
+[Debussy - Children's Corner](https://www.youtube.com/watch?v=o_pqU2owgCs)  
+![Piano Performance](./assets/piano.png)  
+[Bach - French Suite no.6 in E major, Finalist Recital](https://www.youtube.com/watch?v=o_pqU2owgCs)  
 
 Back to [Top](#top)!
 
