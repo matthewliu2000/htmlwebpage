@@ -100,6 +100,13 @@ HW Design and Programmer, ECE Department, ECE2035
 ![MbedHardware](./assets/mbedhardware.png)  
 github repo:   
 
+**Minesweeper Computer Generated Solution**  
+SW Programmer, ECE Department, ECE2035  
+- Developed a computer-generated solution to the Minesweeper game using square inferencing techniques coded in both C and MIPS assembly language. Seeding the program generates different a random map for itself to solve.  
+- Optimized memory, and reduced static and dynamic instructions  
+![Minesweeper](./assets/minesweeper.jpg)  
+
+
 **Pacman Game with MBED Hardware and Programmed in C++**   
 github repo:   
 
@@ -124,7 +131,7 @@ Back to [Top](#top)!
 
 ---
 ## Hobbies and Interests! <a name = "interests"></a>
-- **Hobbies!! :** piano, chess, basketball, anime, film, TV series, hiking, snowboarding, skiing, gaming, linux, vim editor  
+- **Hobbies!! :** piano, chess, basketball, anime, classical films, TV, hiking, snowboarding, skiing, gaming, linux, vim editor  
 - **Interests!! :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies   
 
 Glenwood Springs - August 2019  
@@ -151,12 +158,12 @@ Back to [Top](#top)!
 ----
 ## Activities <a name = "activities"></a>
 Phi Sigma Pi - National Honor Fraternity for Scholarship, Leadership, and Fellowship  
-![phisigmapi](./assets/psp.jpg)  
-Concert Pianist - IKOF silver medalist[competition information](http://odyssiad.com/), Orchestra, PianoForte Org  
-![ikof](./assets/ikof.jpg)   
-![pianoforte](./assets/pianoforte.png)  
 Chess Club   
 Student Alumni Association  
+Concert Pianist - IKOF silver medalist[competition information](http://odyssiad.com/), Orchestra, PianoForte Org  
+![phisigmapi](./assets/psp.jpg)  
+![ikof](./assets/ikof.jpg)   
+![pianoforte](./assets/pianoforte.png)  
 
 Back to [Top](#top)!
 
