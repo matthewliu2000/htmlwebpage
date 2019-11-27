@@ -1,7 +1,7 @@
 # Welcome to My Webpage!!!
 
 A little about me! I am from Fort Collins, Colorado, and I am a **third year** undergraduate studying **Computer Engineering** at **Georgia Institute of Technology**.
-Full time student looking for a summer internship in 2020, complete undergraduate studies in Spring 2021, and plan to pursue a higher degree.  
+Full time student looking for a summer internship in 2020, complete undergraduate studies in Spring 2021, and planning to pursue a higher degree and seek future employment.  
 Here is a [link](https://www.linkedin.com/in/matthew-liu-315aa014b/) to my LinkedIn page.  
 Here is a [link](https://github.com/matthewliu2000/page) to my github page.  
 Here is a download [link](./assets/Matthew_Liu_CV_Oct25_2019.docx) for my resume.  
@@ -9,7 +9,7 @@ Here is a download [link](./assets/Matthew_Liu_CV_Oct25_2019.docx) for my resume
 
 # What to Find Here! <a name ="top"></a>
 - [How to Create this Webpage](#webpage)  
-- [Quick Bio and Career Goal](#aboutme)  
+- [Objective Statement](#aboutme)  
 - [Courses Completed by Spring 2020 (_w/ descriptions_)](#courses)  
 - [Work Experience](#work)  
 - [Projects](#projects)  
@@ -30,9 +30,9 @@ Back to [Top](#top)!
 
 ---
 ## Quick Bio <a name = "aboutme"></a>
-Third year Computer Engineer Student at Georgia Tech with industry experience in hardware engineering specializing in pre-silicon validation within an SoC. Adaptable, resourceful, and adept at working in focused and collaborative environments, debugging problems during testing, and creating or finding solutions. Successful in climate research and other multi-disciplinary internships. Actively looking for hardware design engineering internships and co-ops Spring and Summer 2020.  
+Third year Computer Engineer Student at Georgia Tech with industry experience in hardware engineering specializing in pre-silicon validation within an microcontroller of an SoC. Adaptable, resourceful, and adept at working in focused and collaborative environments, debugging problems during testing, and creating or finding solutions. Successful in climate research and other multi-disciplinary internships. Actively looking for hardware design engineering internships and co-ops Spring and Summer 2020.  
 
-My career goal is to immerse myself with comprehensive, interdisciplinary knowledge in computer engineering and computer science, and become well trained in integrating hardware and software, as well as application of engineering concepts and methods to computer systems engineering and design. I aim to achieve a masters or doctorate degree in ECE from which I hope to pursue work in research or industry.  
+My career goal is to immerse myself with comprehensive, interdisciplinary knowledge in computer engineering and computer science, and become well trained in integrating hardware and software, as well as application of engineering concepts and methods to computer systems engineering and design. Academically, I may aim for a masters or doctorate degree in ECE from which, or concurrently, pursue work in research or industry.  
 
 ----
 ## ECE Courses <a name = "courses"></a>
@@ -44,7 +44,7 @@ My career goal is to immerse myself with comprehensive, interdisciplinary knowle
 
 [Signal Processing:](https://www.ece.gatech.edu/courses/course_outline/ECE2026) Phasors, sinusoids, harmonics, spectrogram analysis, Fourier series synthesis and analysis, aliasing, folding, continuous vs discrete time domains, convolution, filters (low, high, bandpass), DFT, Z-transform for FIR, MATLAB, Image enhancement, Time frequency analysis, sound and music synthesis, sample reconstruction  
 
-[Math Foundations for Computer Engineering:](http://blough.ece.gatech.edu/3020/outline.pdf) discrete math, proofs, computational complexity, Fast Fourier transform, error detection and correction codes (parity coding), data abstractions, graph theory (trees, lists, Prim’s, Dykstra’s algorithms, etc.), regular expressions, state minimization, algorithms (searching, sorting, closest path, recursion etc.)  
+[Math Foundations for Computer Engineering:](http://blough.ece.gatech.edu/3020/outline.pdf) discrete math, proofs, computational complexity, Fast Fourier transform, error detection and correction codes (parity coding), data abstractions, graph theory (trees, lists, Prim’s, Dykstra’s algorithms, etc.), regular expressions, state minimization, networks, algorithms (searching, sorting, closest path, recursion etc.)  
 
 [Physical Foundations for Computer Engineering:](https://www.ece.gatech.edu/courses/course_outline/ECE3030) Physical Implementation of a bit (barrier model), physics of CMOS based computation (semiconductor physics, MOSFET and device physics, switches as computing devices), physics of data communication via propagation through wire, alternative computing models (quantum computing)  
 
@@ -108,11 +108,23 @@ SW Programmer, ECE Department, ECE2035
 
 
 **Pacman Game with MBED Hardware and Programmed in C++**   
-github repo:   
-
+github repo:  
 
 **Heap Data Structure developed w/ linked list implemented in C**  
 github repo:   
+
+**VPython Physics Simulations**  
+github repo:  
+
+**Twitter API - Tweet Sentiment Analysis**  
+
+**Third Pole Environmental Conference Poster**  
+
+**Synchronous Clocked Finite State Machine(Physical Design)**  
+
+**Train State Machine Lab (VHDL)**  
+
+**"Flappy Bird" Game Design in Unity**  
 
 Back to [Top](#top)!
 
@@ -122,6 +134,10 @@ DE2Bot Design Summary and Documentation:
 [DE2_Design_Summary.docx](./assets/projectdesignsummWorking.docx)  
 Presentation:  
 [DE2_Bot_Proposal](./assets/Running_Rock.pptx)  
+
+**ECE3005 Technical Communications Website Design Presentation**  
+
+**Third Pole Environmental Conference Poster**  
 
 Short Technical Write-Ups  
 1. [Propagation_Delay_and_Oscilloscope_Measurements.pdf](./assets/LabReport3_final_version_3.pdf)  
