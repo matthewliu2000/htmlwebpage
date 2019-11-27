@@ -166,8 +166,8 @@ Pieces being worked on currently:
 Organ Hall Recorded Performance 2013  
 [Chopin - Fantaisie Impromptu](https://www.youtube.com/watch?v=hCwSzsDiuXU)  
 [Debussy - Children's Corner](https://www.youtube.com/watch?v=o_pqU2owgCs)  
-![Piano Performance](./assets/piano.png)  
 [Bach - French Suite no.6 in E major, Finalist Recital](https://www.youtube.com/watch?v=o_pqU2owgCs)  
+![Piano Performance](./assets/piano.png)  
 
 Back to [Top](#top)!
 
