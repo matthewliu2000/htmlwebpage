@@ -119,16 +119,16 @@ github repo:
 github repo:  
 
 **Twitter API - Tweet Sentiment Analysis**  
-- Utilized programming skills in Python to conduct sentiment analysis on Tweets
-- Accessed real-time twitter messages using programs and made inferences from diction and semantics
+- Utilized programming skills in Python to conduct sentiment analysis on Tweets  
+- Accessed real-time twitter messages using programs and made inferences from diction and semantics  
 
 **Third Pole Environmental Conference Poster**  
 
 **Simple Computer (SCOMP) written in VHDL**  
-![LabReport8](./assets/LabReport8vfinal_withAppendix.pdf)  
+[LabReport8](./assets/LabReport8vfinal_withAppendix.pdf)  
 
 **Train State Machine Lab (VHDL)**  
-![LabReport6](./assets/LabReport6.pdf)  
+[LabReport6](./assets/LabReport6.pdf)  
 
 **Internet Radio Broadcasting Station**  
 - Installed and manipulated Icecast, Iceweasel, and Ezstream into a BeagleBoard with UXTerm  
@@ -136,12 +136,18 @@ github repo:
 - Implemented basic programming skills in Java and Python during the project  
 
 **Synchronous Clocked Finite State Machine(Physical Design)**  
-- Created using NI myDAQ instruments, breadboard, decoders, inverters, flipflops, etc. 
+- Created using NI myDAQ instruments, breadboard, decoders, inverters, flipflops, etc.  
 
 **"Flappy Bird" Game Design in Unity**  
 
+**Signal Processing in MATLAB**  
+- Plotting spectrograms, identifying folding, aliasing, filter design, interference removal, etc.   
+
 **MATLAB Website Development Project**  
-Access to WebPage [here](http:://www.prism.gatech.edu/~mliu362)  
+Access to WebPage [here](http://www.prism.gatech.edu/~mliu362/)  
+
+**Blackjack Simulation Game**  
+- Coded in MATLAB  
 
 Back to [Top](#top)!
 
