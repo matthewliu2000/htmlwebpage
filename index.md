@@ -125,10 +125,12 @@ github repo:
 **Third Pole Environmental Conference Poster**  
 
 **Simple Computer (SCOMP) written in VHDL**  
-[LabReport8](./assets/LabReport8vfinal_withAppendix.pdf)  
+- Programmed a simple programmable computer onto an FPGA w/ a processor, memory, and IO bus for interfacing with peripheral devices.   
+- [SCOMP Code, Simulation, and Design](./assets/LabReport8vfinal_withAppendix.pdf)  
+- [SCOMP Simulation Waveform and Schematics Oscilloscope Measurements](./assets/LabReport6.pdf)  
 
-**Train State Machine Lab (VHDL)**  
-[LabReport6](./assets/LabReport6.pdf)  
+**Train State Machine (VHDL)**  
+- [Train Code, UML State Chart, and State Design](./assets/TrainLab.pdf)  
 
 **Internet Radio Broadcasting Station**  
 - Installed and manipulated Icecast, Iceweasel, and Ezstream into a BeagleBoard with UXTerm  
