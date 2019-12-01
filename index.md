@@ -115,6 +115,8 @@ github repo:
 github repo:   
 
 **VPython Physics Simulations**  
+- Modeled electro-magnetic fields, charged objects (rods,disks,etc.), electrons, particle trajectories in gravitational field, 2D/3D motion, springs, etc. 
+
 ![particlebehavior](./assets/particlemovinginfield.png)  
 github repo:  
 
