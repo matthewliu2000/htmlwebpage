@@ -83,7 +83,7 @@ CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA 
 ![snowdensity](./assets/snowden.png)
 
 ----
-## School Projects <a name = "projects"></a>
+## Projects <a name = "projects"></a>
 **FPGA Controlled Autonomous "Wall Following Bot"**  
 (see [below](#documents) for documentation)   
 HW and SW Programmer, ECE Department, ECE2031  
@@ -105,27 +105,43 @@ github repo:
 SW Programmer, ECE Department, ECE2035  
 - Developed a computer-generated solution to the Minesweeper game using square inferencing techniques coded in both C and MIPS assembly language. Seeding the program generates different a random map for itself to solve.  
 - Optimized memory, and reduced static and dynamic instructions  
-![Minesweeper](./assets/minesweeper.jpg)  
-
+![Minesweeper](./assets/ASMMinesweeperSS.png)  
 
 **Pacman Game with MBED Hardware and Programmed in C++**   
+![pacman](./assets/pacman.png)  
 github repo:  
 
 **Heap Data Structure developed w/ linked list implemented in C**  
 github repo:   
 
 **VPython Physics Simulations**  
+![particlebehavior](./assets/particlemovinginfield.png)  
 github repo:  
 
 **Twitter API - Tweet Sentiment Analysis**  
+- Utilized programming skills in Python to conduct sentiment analysis on Tweets
+- Accessed real-time twitter messages using programs and made inferences from diction and semantics
 
 **Third Pole Environmental Conference Poster**  
 
-**Synchronous Clocked Finite State Machine(Physical Design)**  
+**Simple Computer (SCOMP) written in VHDL**  
+![LabReport8](./assets/LabReport8vfinal_withAppendix.pdf)  
 
 **Train State Machine Lab (VHDL)**  
+![LabReport6](./assets/LabReport6.pdf)  
+
+**Internet Radio Broadcasting Station**  
+- Installed and manipulated Icecast, Iceweasel, and Ezstream into a BeagleBoard with UXTerm  
+- Utilized IceCast to start a streaming service, capable of running and broadcasting our own music  
+- Implemented basic programming skills in Java and Python during the project  
+
+**Synchronous Clocked Finite State Machine(Physical Design)**  
+- Created using NI myDAQ instruments, breadboard, decoders, inverters, flipflops, etc. 
 
 **"Flappy Bird" Game Design in Unity**  
+
+**MATLAB Website Development Project**  
+Access to WebPage [here](http:://www.prism.gatech.edu/~mliu362)  
 
 Back to [Top](#top)!
 
@@ -141,8 +157,9 @@ Presentation:
 **Third Pole Environmental Conference Poster**  
 
 Short Technical Write-Ups  
-1. [Propagation_Delay_and_Oscilloscope_Measurements.pdf](./assets/LabReport3_final_version_3.pdf)  
-2. [IOT_RiskBenefitStudy.docx](./assets/IoT_ResearchPaper.docx)  
+1. [Simple Computer Designed in VHDL on FPGA](./assets/LabReport8vfinal_withAppendix.pdf)  
+2. [Propagation_Delay_and_Oscilloscope_Measurements.pdf](./assets/LabReport3_final_version_3.pdf)  
+3. [IOT_RiskBenefitStudy.docx](./assets/IoT_ResearchPaper.docx)  
 
 Back to [Top](#top)!
 
