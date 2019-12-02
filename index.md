@@ -158,13 +158,15 @@ Back to [Top](#top)!
 ----
 ## Documents <a name = "documents"></a>
 DE2Bot Design Summary and Documentation:  
-[DE2_Design_Summary.docx](./assets/projectdesignsummWorking.docx)  
+- [DE2_Design_Summary.docx](./assets/projectdesignsummWorking.docx)  
 Presentation:  
-[DE2_Bot_Proposal](./assets/Running_Rock.pptx)  
+- [DE2_Bot_Proposal.pptx](./assets/Running_Rock.pptx)  
 
 **ECE3005 Technical Communications Website Design Presentation**  
+- [ECE3005 Presentation.pptx](./assets/ePortfolio_Website.pptx)   
 
 **Third Pole Environmental Conference Poster**  
+- ...
 
 Short Technical Write-Ups  
 1. [Simple Computer Designed in VHDL on FPGA](./assets/LabReport8vfinal_withAppendix.pdf)  
