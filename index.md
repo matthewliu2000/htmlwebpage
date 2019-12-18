@@ -69,8 +69,8 @@ Back to [Top](#top)!
 Waste water treatment company that develops and designs modular, on-site bioreactor technology to treat contaminated water. The company works with public and private organizations, like the UN, whom are concerned with environmental protection  
 - Contributed in a variety of different IT, engineering, and marketing roles  
 - Improved, fixed, and identified bugs on company website  
-- Procured and conducted data analysis of water quality before and after FMBR treatme  
-- Participated and observed an on-site installation of equipmen  
+- Procured and conducted data analysis of water quality before and after FMBR treatment  
+- Participated and observed an on-site installation of equipment  
 - Attended trade shows, conferences, and onsite trainings on environmental protection  
 ![JDL](./assets/JDL.jpg)   
 
