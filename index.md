@@ -23,7 +23,7 @@ Here is a download [link](./assets/Matthew_Liu_CV_Oct25_2019.docx) for my resume
 ## Website Information! <a name = "webpage"></a>
 This webpage is a fun independent project created for Technical Communications Class (ECE3005).  
 It is hosted and powered by Github Pages/Jekyll and the original theme is by [Matt Graham](https://github.com/mattgraham)  
-I used Markdown which is a simple, light-weight syntax for styling writing   
+I used Markdown which is a simple, light-weight syntax for styling writing.   
 You can fork/clone this project at my github [repository page](https://github.com/matthewliu2000/page)  
 ![midnight_theme](./assets/midnight.png)
 
