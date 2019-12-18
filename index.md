@@ -177,8 +177,8 @@ Back to [Top](#top)!
 
 ---
 ## Hobbies and Interests! <a name = "interests"></a>
-- **Hobbies!! :** piano, chess, basketball, classical films, TV, hiking, snowboarding, skiing, gaming, linux, vim editor  
-- **Interests!! :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies   
+- **Hobbies :** piano, chess, basketball, classical films, TV, hiking, snowboarding, skiing, gaming, linux, vim editor  
+- **Interests :** traveling, video editing, music production, food, science fiction, hardware development, validation, automation, machine learning, web design, consumer technologies   
 
 Glenwood Springs - August 2019  
 ![hiking](./assets/glenwoodsprings.jpg)  
@@ -197,7 +197,7 @@ Organ Hall Recorded Performance 2013
 International Keyboard Odyssiad Festival - Silver Medalist  
 [Chopin - Fantaisie Impromptu](https://www.youtube.com/watch?v=hCwSzsDiuXU)  
 [Debussy - Children's Corner](https://www.youtube.com/watch?v=o_pqU2owgCs)  
-[Bach - French Suite no.6 in E major, Finalist Recital](https://www.youtube.com/watch?v=o_pqU2owgCs)  
+[Bach - French Suite no.6 in E major, Finalist Recital](https://www.youtube.com/watch?v=MuQBy0cQsKk)  
 ![Piano Performance](./assets/piano.png)  
 
 Back to [Top](#top)!
