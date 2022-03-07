@@ -79,7 +79,7 @@ CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA 
 ![CIRA_NOAA_researchlab](./assets/CIRA.jpg =200x100)  
 ![grads](./assets/grads.png =250x100)  
 ![snowdensity](./assets/snowden.png =300x100) 
-<img src="./assets/CIRA.jpg" width="800" height="300">  
+<img src="./assets/CIRA.jpg" width="600" height="250">  
 
 ----
 ## Projects <a name = "projects"></a>  
