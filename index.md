@@ -77,7 +77,7 @@ CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA 
 - Gathered NOAA weather station data, parsed and analyzed the data (CSV files), with Fortran models, MATLAB, and GrADs (atmospheric science visual data analysis tool) and presented at Third Pole Environmental Conference
 - Worked with senior research scientist, Dr. Glen Liston to perform data analysis and modeling on regional conditional variations specifically within the Rocky Mountains, Alaska, and Greenland Ice sheets
 <img src="./assets/CIRA.jpg" width="600" height="345">  
-<img src="./assets/grads.png" width="2000" height="1700">  
+<img src="./assets/grads.png" width="666.66" height="566.66">  
 <img src="./assets/snowden.png" width="618" height="800">  
 
 ----
