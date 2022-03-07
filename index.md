@@ -15,10 +15,11 @@ Full time student looking for a summer internship in 2022, complete undergraduat
 - [Activities](#activities)  
 - [My Hobbies and Interests](#interests)  
 - [Contact and Support](#contact)  
+  
+![drone sim](https://media.giphy.com/media/P2zNidvSMBVJPJ1LjU/giphy.gif)   
+ECE4122 UAV Drone Simulation  
+Back to [Top](#top)!  
 
-![drone sim](https://media.giphy.com/media/P2zNidvSMBVJPJ1LjU/giphy.gif)  
-ECE4122 UAV Drone Simulation
-Back to [Top](#top)!
 ---
 ## Quick Bio <a name = "aboutme"></a>
 Fourth year Computer Engineer at Georgia Tech with industry experience in hardware engineering specializing in pre-silicon validation within a microcontroller of an SoC. Adaptable, resourceful, and adept at working in focused and collaborative environments, debugging problems during testing, and creating or finding solutions. Successful in climate research and other multi-disciplinary internships. Actively looking for hardware design engineering internships and co-ops Spring and Summer 2022.  
