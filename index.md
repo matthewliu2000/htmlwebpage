@@ -91,7 +91,7 @@ CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA 
 - [source code](https://drive.google.com/drive/folders/1TNty7M6peybXFbq6Ig-HpSm_tmf9db-7?usp=sharing)
 
 **Single-Cycle MIPS Processor in Verilog**  
-- Implemented a single-cycle MIPS processor instructions with fetch, decode, execute, memory, writeback stages for instructions (slt, j, jal, lui, ori)
+- Implemented a single-cycle MIPS processor instructions with fetch, decode, execute, memory, writeback stages for assembly instructions (slt, j, jal, lui, ori)
 - [source code](https://drive.google.com/drive/folders/1g00Eag3VHpeP1MRsrJ8K-g4yz4lYnVnp?usp=sharing)
 
 **GaTech Buzzy Bowl, 3D Drone Simulation with OpenGL and std::thread**   
