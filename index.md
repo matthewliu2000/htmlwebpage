@@ -5,7 +5,7 @@ Full time student looking for a summer internship in 2020, complete undergraduat
   
 Here is a [link](https://www.linkedin.com/in/matthew-liu-317aa014b/) to my LinkedIn page.  
 Here is a [link](https://github.com/matthewliu2000/page) to my github page.  
-Here is a download [link](./assets/Matthew_Liu_CV_Oct25_2019.docx) for my resume.  
+Here is a download [link]() for my resume.  
 ![Georgia Tech](./assets/visit-tech.png)
 
 # What to Find Here! <a name ="top"></a>
@@ -86,6 +86,14 @@ CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA 
 
 ----
 ## Projects <a name = "projects"></a>  
+**Pipelined MIPS Processor in Verilog**  
+- Implemented pipelined MIPS processor that handles data, structural, and control hazards  with load-to-use stall, data forwarding, and branch prediction with flushing
+- [source code](https://drive.google.com/drive/folders/1TNty7M6peybXFbq6Ig-HpSm_tmf9db-7?usp=sharing)
+
+**Single-Cycle MIPS Processor in Verilog**  
+- Implemented a single-cycle MIPS processor instructions with fetch, decode, execute, memory, writeback stages for instructions (slt, j, jal, lui, ori)
+- [source code](https://drive.google.com/drive/folders/1g00Eag3VHpeP1MRsrJ8K-g4yz4lYnVnp?usp=sharing)
+
 **GaTech Buzzy Bowl, 3D Drone Simulation with OpenGL and std::thread**   
 SW Programmer, ECE4122  
 - Programmed a drone show with UAVs that have physical dimensions of 1 kg and capable of generating 20N in any direction.  
