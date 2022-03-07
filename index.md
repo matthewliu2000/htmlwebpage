@@ -39,6 +39,8 @@ My career goal is to immerse myself with comprehensive, interdisciplinary knowle
 ## ECE Courses <a name = "courses"></a>
 [Hardware and Software Programming:](https://ece2035.ece.gatech.edu) Instruction set architecture datapath and controller, memory (stack, heap, static), data abstractions (structs, arrays, linked lists, hash tables), File I/O, Embedded software, basic concurrency in multicore systems, assembly level programming, procedural abstraction (function calls, activation frames, etc.)  
 
+[Advanced Programming Techniques:](https://www.ece.gatech.edu/courses/course_outline/ECE4122) Distributed programming with MPI (Synchronous and Asychronous communications; Group Communication and Synchronization), Parallel programming with pthreads (Mutual Exclusion and Thread Synchronization), CUDA programming for high-speed parallel computations, Object-Oriented code templates (Typesafe callbacks with templates and Re-usable code with templates), Introduction to Data Mining using Map-Reduce (Google's approach to managing large datasets), Event-based Programming (Typesafe event handlers), Introduction to graphics programming using OpenGL (2-D and 3-D coordinate transformations), Using web services (Introduction to SOAP and Performance considerations with web servcies), Using non-blocking system I/O (Asynchronous input-output programming and Handlng multiple sockes with select), TCP socket programming (server and client), Introduction to database programming using MYSQL (The MYSQL database access API and Security Issues with database programming).
+
 [Digital Design Laboratory:](https://www.ece.gatech.edu/courses/course_outline/ECE2031) implement simple computer within a PLD, VHDL (design, implement, simulate circuits), design with graphical CAD tools, machine language and assembly language programs for simple computer, FPGAs, HDL based simulation and synthesis with FPGAs, oscilloscope, logic analyzer, timing simulation, state machine implementation, design verification with logic analyzer, combinational design using primitive gates, schematic capture, and VHDL  
 
 [Circuit Analysis:](https://www.ece.gatech.edu/courses/course_outline/ECE2040) Voltage, Current, Power, Energy, Kirchoff, linearity, superposition, Thevenin, Norton, Op Amps, first and second order circuits, RLC circuits, forcing functions, sinusoidal steady-state analysis, resonance, phasors, impedance, power analysis (instantaneous and average power, complex power, max power transfer)  
@@ -84,6 +86,29 @@ CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA 
 
 ----
 ## Projects <a name = "projects"></a>
+**GaTech Buzzy Bowl, 3D Drone Simulation with OpenGL and std::thread**
+SW Programmer, ECE4122
+- Programmed a drone show with UAVs that have physical dimensions of 1 kg and capable of generating 20N in any direction.
+- Multi-threaded each UAV so each UAV is controlled by a separate thread that updates kinematic information every 10msec
+- Flight path of each UAV follows kinematic rules F=ma, equations of motion for constant acceleration in each direction, and demonstrate elastic collisions between other UAVs
+- Each UAV must launch off ground after 5s, go towards point 0,0,50, and fly along surface of 10m radius virtual sphere for 60 seconds
+
+**CUDA and MPI programs to simulate 2D Steady State Heat Conduction in a Thin Plate using LaPlace's Equation**
+- Two separate programs (one with CUDA and one with MPI) solves for NxN (up to 256x256) thin plate for I iterations (10,000+) with a border around the thin plate held at 100 deg C and one short segment held at 20 deg C using parallel programming and GPU to solve effectively with high efficiency for large quantities of iterative computations.
+
+**Buzzy's Revenge Game w/ SFML API in C++**
+SW Programmer, ECE4122
+- Programmed an "angry-birds" type of game with features including opening screens, controls for changing initial velocity and launch angle, animated simple projectile motion path, rotation of "buzzy" based on direction of travel in air, point systems based on enemies hit, thread safe randomization of new level creation, moving targets, lives, scoring system and display, visual indicators for game state, etc.
+
+**Modified Project Euler Problems**
+SW Programmer, ECE4122
+[Project Euler Link](https://projecteuler.net/)
+Problems were modified to be more challenging and different from the existing problems online.
+Problem #3: [Prime Factors](https://projecteuler.net/problem=3) 
+Problem #349: [Langton's Ant](https://projecteuler.net/problem=349)
+Problem #144: [Investigating Reflections of a Laser Beam](https://projecteuler.net/problem=144)
+Problem #280: [Ant's and Seeds](https://projecteuler.net/problem=280)
+
 **FPGA Controlled Autonomous "Wall Following Bot"**  
 (see [below](#documents) for documentation)   
 HW and SW Programmer, ECE Department, ECE2031  
