@@ -76,7 +76,7 @@ Waste water treatment company that develops and designs modular, on-site bioreac
 [CIRA](https://www.cira.colostate.edu/) - NOAA Research Lab - Research Assistant and Climate Researcher  
 CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA research scientists
 - Gathered NOAA weather station data, parsed and analyzed the data (CSV files), with Fortran models, MATLAB, and GrADs (atmospheric science visual data analysis tool) and presented at Third Pole Environmental Conference
-- Worked with senior research scientist, Dr. Glen Liston to perform data analysis and modeling on regional conditional variations specifically within the Rocky Mountains, Alaska, and Greenland Ice sheets
+- Worked with senior research scientist, Dr. Glen Liston to perform data analysis and modeling on regional conditional variations specifically within the Rocky Mountains, Alaska, and Greenland Ice sheets  
 <img src="./assets/CIRA.jpg" width="300" height="172.5">  
 <img src="./assets/grads.png" width="333.33" height="283.33">  
 <img src="./assets/snowden.png" width="309" height="400">  
