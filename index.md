@@ -66,7 +66,7 @@ Back to [Top](#top)!
 - For supported regression tests, the BFM reduces CPU model time by 27% and total cycles by 75%, enabling more efficient, more reliable, and timelier validation 
 - Enabled validation tests for new generation of design
 - Provided validation collateral to identify RTL security bugs
-- Worked on identifying holes in Code Coverage Analysis 
+- Worked on identifying holes during code coverage analysis 
 - Validation of a bridge between microcontrollers with multiple protocols layers and translations. Worked on new self-checking capabilities for old sequences, and scoreboard for data checks across serial wire.
 - Formal validation of a resource controller and python script automation of code development. Also worked on creating script to reformat monitor prints for easier debug.
 ![intel](./assets/intel.jpg)  
