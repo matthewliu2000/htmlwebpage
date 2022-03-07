@@ -60,7 +60,8 @@ Intel is a multi-national technology company focusing on semiconductors, compute
 - Provided validation collateral to identify RTL security bugs
 - Worked on identifying holes during code coverage analysis 
 - Validation of a bridge between microcontrollers with multiple protocols layers and translations. Worked on new self-checking capabilities for old sequences, and scoreboard for data checks across serial wire.
-- Formal validation of a resource controller and python script automation of code development. Also worked on creating script to reformat monitor prints for easier debug.
+- Formal validation of a resource controller and python script automation of code development. Also worked on creating script to reformat monitor prints for easier debug.  
+
 ![intel](./assets/intel.jpg)  
 
 [JDL International - IT & Marketing Intern](https://jdlinternationalinc.com/)  
