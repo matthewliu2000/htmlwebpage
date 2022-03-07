@@ -148,7 +148,7 @@ SW Programmer, ECE Department, ECE2035
 ![Minesweeper](./assets/ASMMinesweeperSS.png)  
 
 **ePortfolio Project**
-- This webpage was the end project as a class project created in ECE3005 Technical Communications class. [link to start of webpage](https://matthewliu2000.github.io/page/) 
+- This webpage was the end product created in ECE3005 Technical Communications class. [link to start of webpage](https://matthewliu2000.github.io/page/) 
 
 **Pacman Game with MBED Hardware and Programmed in C++**   
 ![pacman](./assets/pacman.png)  
