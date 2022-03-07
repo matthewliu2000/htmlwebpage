@@ -1,7 +1,7 @@
 # Welcome to My Webpage
 
 A little about me! I am from Fort Collins, Colorado, and I am a **third year** undergraduate studying **Computer Engineering** at **Georgia Institute of Technology**.
-Full time student looking for a summer internship in 2020, complete undergraduate studies in Spring 2021, and planning to pursue a graduate degree and seek future employment.   
+Full time student looking for a summer internship in 2022, complete undergraduate studies in Spring 2022, and planning to pursue a graduate degree and seek future employment.   
   
 Here is a [link](https://www.linkedin.com/in/matthew-liu-317aa014b/) to my LinkedIn page.  
 Here is a [link](https://github.com/matthewliu2000/page) to my github page.  
