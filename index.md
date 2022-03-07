@@ -104,10 +104,10 @@ SW Programmer, ECE4122
 SW Programmer, ECE4122  
 [Project Euler Link](https://projecteuler.net/)  
 Problems were modified to be more challenging or different from the existing problems online.  
-Problem #3: [Prime Factors](https://projecteuler.net/problem=3) [source code and modified problem](https://drive.google.com/drive/folders/14pdGo8YsuwfpCcgOJEFAjmolOzVGs_Gv?usp=sharing)  
-Problem #349: [Langton's Ant](https://projecteuler.net/problem=349) [source code and modifed problem](https://drive.google.com/drive/folders/14pdGo8YsuwfpCcgOJEFAjmolOzVGs_Gv?usp=sharing)  
-Problem #144: [Investigating Reflections of a Laser Beam](https://projecteuler.net/problem=144)[source code and modified problem](https://drive.google.com/drive/folders/14pdGo8YsuwfpCcgOJEFAjmolOzVGs_Gv?usp=sharing)    
-Problem #280: [Ant's and Seeds](https://projecteuler.net/problem=280) [source code and modified problem](https://drive.google.com/drive/folders/17d2DRcY1x7kelVNQQIY0uGiVGCJZBWdP?usp=sharing)  
+Problem #3: [Prime Factors](https://projecteuler.net/problem=3) [(source code and problem)](https://drive.google.com/drive/folders/14pdGo8YsuwfpCcgOJEFAjmolOzVGs_Gv?usp=sharing)  
+Problem #349: [Langton's Ant](https://projecteuler.net/problem=349) [(source code and problem)](https://drive.google.com/drive/folders/14pdGo8YsuwfpCcgOJEFAjmolOzVGs_Gv?usp=sharing)  
+Problem #144: [Investigating Reflections of a Laser Beam](https://projecteuler.net/problem=144)[(source code and problem)](https://drive.google.com/drive/folders/14pdGo8YsuwfpCcgOJEFAjmolOzVGs_Gv?usp=sharing)    
+Problem #280: [Ant's and Seeds](https://projecteuler.net/problem=280) [(source code and problem)](https://drive.google.com/drive/folders/17d2DRcY1x7kelVNQQIY0uGiVGCJZBWdP?usp=sharing)  
 
 **FPGA Controlled Autonomous "Wall Following Bot"**  
 (see [below](#documents) for documentation)   
