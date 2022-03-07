@@ -6,7 +6,6 @@ Full time student looking for a summer internship in 2022, complete undergraduat
 ![Georgia Tech](./assets/visit-tech.png)
 
 # What to Find Here! <a name ="top"></a>
-- [How to Create this Webpage](#webpage)  
 - [Objective Statement](#aboutme)  
 - [Courses Completed by Spring 2022 (_w/ descriptions_)](#courses)  
 - [Work Experience](#work)  
@@ -24,7 +23,7 @@ Back to [Top](#top)!
 ## Quick Bio <a name = "aboutme"></a>
 Fourth year Computer Engineer at Georgia Tech with industry experience in hardware engineering specializing in pre-silicon validation within a microcontroller of an SoC. Adaptable, resourceful, and adept at working in focused and collaborative environments, debugging problems during testing, and creating or finding solutions. Successful in climate research and other multi-disciplinary internships. Actively looking for hardware design engineering internships and co-ops Spring and Summer 2022.  
 
-My career goal is to immerse myself with comprehensive, interdisciplinary knowledge in computer engineering and computer science, and become well trained in integrating hardware and software, as well as application of engineering concepts and methods to computer systems engineering and design. I plan to pursue a masters or doctorate degree in ECE or seek work in research and industry.  
+My career goal is to immerse myself with comprehensive, interdisciplinary knowledge in state-of-the-art computer engineering and computer science, and become well trained in integrating hardware and software, as well as application of engineering concepts and methods to computer systems engineering and design. I plan to pursue a masters or doctorate degree in ECE or seek work in research and industry.  
 
 ----
 ## ECE Courses <a name = "courses"></a>
@@ -147,6 +146,9 @@ SW Programmer, ECE Department, ECE2035
 - Developed a computer-generated solution to the Minesweeper game using square inferencing techniques coded in both C and MIPS assembly language. Seeding the program generates different a random map for itself to solve.  
 - Optimized memory, and reduced static and dynamic instructions  
 ![Minesweeper](./assets/ASMMinesweeperSS.png)  
+
+**ePortfolio Project**
+- This webpage was started as a class project created in ECE3005 Technical Communications class. 
 
 **Pacman Game with MBED Hardware and Programmed in C++**   
 ![pacman](./assets/pacman.png)  
