@@ -1,4 +1,4 @@
-# Welcome to My Webpage!!!
+# Welcome to My Webpage
 
 A little about me! I am from Fort Collins, Colorado, and I am a **third year** undergraduate studying **Computer Engineering** at **Georgia Institute of Technology**.
 Full time student looking for a summer internship in 2020, complete undergraduate studies in Spring 2021, and planning to pursue a graduate degree and seek future employment.   
@@ -25,7 +25,6 @@ This webpage is a fun independent project created for Technical Communications C
 It is hosted and powered by Github Pages/Jekyll and the original theme is by [Matt Graham](https://github.com/mattgraham)  
 I used Markdown which is a simple, light-weight syntax for styling writing.   
 You can fork/clone this project at my github [repository page](https://github.com/matthewliu2000/page)  
-![midnight_theme](./assets/midnight.png)
 
 Back to [Top](#top)!
 
@@ -64,7 +63,12 @@ Back to [Top](#top)!
 
 [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) - RTL Validation Engineering Intern  
 - Contributed to development of new BFM within pre-silicon validation environment for modeling power management firmware responses by improving code modularity and resuse and minimized reliance on firmware to validate RTL  
-- For supported regression tests, the BFM reduces CPU model time by 27% and total cycles by 75%, enabling more efficient, more reliable, and timelier validation  
+- For supported regression tests, the BFM reduces CPU model time by 27% and total cycles by 75%, enabling more efficient, more reliable, and timelier validation 
+- Enabled validation tests for new generation of design
+- Provided validation collateral to identify RTL security bugs
+- Worked on identifying holes in Code Coverage Analysis 
+- Validation of a bridge between microcontrollers with multiple protocols layers and translations. Worked on new self-checking capabilities for old sequences, and scoreboard for data checks across serial wire.
+- Formal validation of a resource controller and python script automation of code development. Also worked on creating script to reformat monitor prints for easier debug.
 ![intel](./assets/intel.jpg)  
 
 [JDL International - IT & Marketing Intern](https://jdlinternationalinc.com/)  
