@@ -16,15 +16,9 @@ Full time student looking for a summer internship in 2022, complete undergraduat
 - [My Hobbies and Interests](#interests)  
 - [Contact and Support](#contact)  
 
-----
-## Website Information! <a name = "webpage"></a>
-This webpage is a fun independent project created for Technical Communications Class (ECE3005).  
-It is hosted and powered by Github Pages/Jekyll and the original theme is by [Matt Graham](https://github.com/mattgraham)  
-I used Markdown which is a simple, light-weight syntax for styling writing.   
-You can fork/clone this project at my github [repository page](https://github.com/matthewliu2000/page)  
 ![drone sim](https://media.giphy.com/media/P2zNidvSMBVJPJ1LjU/giphy.gif)  
+ECE4122 UAV Drone Simulation
 Back to [Top](#top)!
-
 ---
 ## Quick Bio <a name = "aboutme"></a>
 Fourth year Computer Engineer at Georgia Tech with industry experience in hardware engineering specializing in pre-silicon validation within a microcontroller of an SoC. Adaptable, resourceful, and adept at working in focused and collaborative environments, debugging problems during testing, and creating or finding solutions. Successful in climate research and other multi-disciplinary internships. Actively looking for hardware design engineering internships and co-ops Spring and Summer 2022.  
