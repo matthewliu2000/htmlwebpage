@@ -106,7 +106,7 @@ SW Programmer, ECE4122
 Problems were modified to be more challenging and different from the existing problems online.  
 Problem #3: [Prime Factors](https://projecteuler.net/problem=3)   
 Problem #349: [Langton's Ant](https://projecteuler.net/problem=349)  
-Problem #144: [Investigating Reflections of a Laser Beam](https://projecteuler.net/problem=144) 
+Problem #144: [Investigating Reflections of a Laser Beam](https://projecteuler.net/problem=144)    
 Problem #280: [Ant's and Seeds](https://projecteuler.net/problem=280)  
 
 **FPGA Controlled Autonomous "Wall Following Bot"**  
