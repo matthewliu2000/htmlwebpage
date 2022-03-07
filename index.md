@@ -79,7 +79,7 @@ CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA 
 - Worked with senior research scientist, Dr. Glen Liston to perform data analysis and modeling on regional conditional variations specifically within the Rocky Mountains, Alaska, and Greenland Ice sheets  
 
 <img src="./assets/CIRA.jpg" width="300" height="172.5">  
-<img src="./assets/grads.png" width="400" height="340">  
+<img src="./assets/grads.png" width="480" height="408">  
 <img src="./assets/snowden.png" width="370.8" height="480">  
 
 ----
