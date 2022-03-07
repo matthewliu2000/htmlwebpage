@@ -86,7 +86,7 @@ CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA 
 
 ----
 ## Projects <a name = "projects"></a>  
-**GaTech Buzzy Bowl, 3D Drone Simulation with OpenGL and std::thread** 
+**GaTech Buzzy Bowl, 3D Drone Simulation with OpenGL and std::thread**   
 SW Programmer, ECE4122  
 - Programmed a drone show with UAVs that have physical dimensions of 1 kg and capable of generating 20N in any direction.  
 - Multi-threaded each UAV so each UAV is controlled by a separate thread that updates kinematic information every 10msec  
