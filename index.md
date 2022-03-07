@@ -1,6 +1,6 @@
 # Welcome to My Webpage
 
-A little about me! I am from Fort Collins, Colorado, and I am a **third year** undergraduate studying **Computer Engineering** at **Georgia Institute of Technology**.
+A little about me! I am from Fort Collins, Colorado, and I am a **fourth year** undergraduate studying **Computer Engineering** at **Georgia Institute of Technology**.
 Full time student looking for a summer internship in 2022, complete undergraduate studies in Spring 2023, and planning to pursue a graduate degree and seek future employment.   
   
 Here is a [link](https://www.linkedin.com/in/matthew-liu-317aa014b/) to my LinkedIn page.  
@@ -11,7 +11,7 @@ Here is a download [link]() for my resume.
 # What to Find Here! <a name ="top"></a>
 - [How to Create this Webpage](#webpage)  
 - [Objective Statement](#aboutme)  
-- [Courses Completed by Spring 2020 (_w/ descriptions_)](#courses)  
+- [Courses Completed by Spring 2022 (_w/ descriptions_)](#courses)  
 - [Work Experience](#work)  
 - [Projects](#projects)  
 - [Documents](#documents)  
@@ -30,7 +30,7 @@ Back to [Top](#top)!
 
 ---
 ## Quick Bio <a name = "aboutme"></a>
-Third year Computer Engineer at Georgia Tech with industry experience in hardware engineering specializing in pre-silicon validation within a microcontroller of an SoC. Adaptable, resourceful, and adept at working in focused and collaborative environments, debugging problems during testing, and creating or finding solutions. Successful in climate research and other multi-disciplinary internships. Actively looking for hardware design engineering internships and co-ops Spring and Summer 2020.  
+Third year Computer Engineer at Georgia Tech with industry experience in hardware engineering specializing in pre-silicon validation within a microcontroller of an SoC. Adaptable, resourceful, and adept at working in focused and collaborative environments, debugging problems during testing, and creating or finding solutions. Successful in climate research and other multi-disciplinary internships. Actively looking for hardware design engineering internships and co-ops Spring and Summer 2022.  
 
 My career goal is to immerse myself with comprehensive, interdisciplinary knowledge in computer engineering and computer science, and become well trained in integrating hardware and software, as well as application of engineering concepts and methods to computer systems engineering and design. I plan to pursue a masters or doctorate degree in ECE or seek work in research and industry.  
 
@@ -52,7 +52,7 @@ My career goal is to immerse myself with comprehensive, interdisciplinary knowle
 
 [Computer Architecture, Systems, Concurrency and Energy in Computation:](https://www.ece.gatech.edu/courses/course_outline/ECE3057) instruction set architecture (mutli-cycle data path and control, controller implementation), CPU pipeline (hazards and solutions, branch prediction), Memory Systems (caches, main memory, virtual memory basics, OS level algorithms), Concurrency (threads, ILP, DLP, TLP), Energy and Power dissipation (microarchitecture-level, power virus, kernel benchmarks), I/O architecture and operating system support, CPU scheduling  
 
-Also Completed All Core Courses (i.e. Physics, Calculus, Discrete Math, English, etc.)  
+Also Completed All Core Learning Courses (i.e. Physics, all Calculus courses, Discrete Math, Linear Algebra, English, etc.)  
 
 See embedded [links](https://matthewliu2000.github.io/page/) for more details
 
@@ -62,6 +62,7 @@ Back to [Top](#top)!
 ## Work Experience <a name = "work"></a> 
 
 [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) - RTL Validation Engineering Intern  
+Intel is a multi-national technology company focusing on semiconductors, computer hardware, autonomous vehicles, automation, AI. Amid some stiff competition, Intel still holds massive market shares in server and PC chip design and manufacturing. I primarily worked on server-chip design and validation.
 - Contributed to development of new BFM within pre-silicon validation environment for modeling power management firmware responses by improving code modularity and resuse and minimized reliance on firmware to validate RTL  
 - For supported regression tests, the BFM reduces CPU model time by 27% and total cycles by 75%, enabling more efficient, more reliable, and timelier validation 
 - Enabled validation tests for new generation of design
