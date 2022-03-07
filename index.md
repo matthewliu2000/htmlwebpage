@@ -229,7 +229,7 @@ Back to [Top](#top)!
 Glenwood Springs - August 2019  
 ![hiking](./assets/glenwoodsprings.jpg)  
 
-Steamboat Springs - December 2018  
+Steamboat Springs - December 2019  
 ![Snowboarding](./assets/snowboarding.png)  
 
 Unix/Linux Distributions  
