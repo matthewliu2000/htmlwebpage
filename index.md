@@ -30,7 +30,7 @@ Back to [Top](#top)!
 
 ---
 ## Quick Bio <a name = "aboutme"></a>
-Third year Computer Engineer at Georgia Tech with industry experience in hardware engineering specializing in pre-silicon validation within a microcontroller of an SoC. Adaptable, resourceful, and adept at working in focused and collaborative environments, debugging problems during testing, and creating or finding solutions. Successful in climate research and other multi-disciplinary internships. Actively looking for hardware design engineering internships and co-ops Spring and Summer 2022.  
+Fourth year Computer Engineer at Georgia Tech with industry experience in hardware engineering specializing in pre-silicon validation within a microcontroller of an SoC. Adaptable, resourceful, and adept at working in focused and collaborative environments, debugging problems during testing, and creating or finding solutions. Successful in climate research and other multi-disciplinary internships. Actively looking for hardware design engineering internships and co-ops Spring and Summer 2022.  
 
 My career goal is to immerse myself with comprehensive, interdisciplinary knowledge in computer engineering and computer science, and become well trained in integrating hardware and software, as well as application of engineering concepts and methods to computer systems engineering and design. I plan to pursue a masters or doctorate degree in ECE or seek work in research and industry.  
 
