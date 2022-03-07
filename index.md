@@ -86,21 +86,21 @@ CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA 
 
 ----
 ## Projects <a name = "projects"></a>
-**GaTech Buzzy Bowl, 3D Drone Simulation with OpenGL and std::thread**
+**GaTech Buzzy Bowl, 3D Drone Simulation with OpenGL and std::thread** 
 SW Programmer, ECE4122
 - Programmed a drone show with UAVs that have physical dimensions of 1 kg and capable of generating 20N in any direction.
 - Multi-threaded each UAV so each UAV is controlled by a separate thread that updates kinematic information every 10msec
 - Flight path of each UAV follows kinematic rules F=ma, equations of motion for constant acceleration in each direction, and demonstrate elastic collisions between other UAVs
 - Each UAV must launch off ground after 5s, go towards point 0,0,50, and fly along surface of 10m radius virtual sphere for 60 seconds
 
-**CUDA and MPI programs to simulate 2D Steady State Heat Conduction in a Thin Plate using LaPlace's Equation**
+**CUDA and MPI programs to simulate 2D Steady State Heat Conduction in a Thin Plate using LaPlace's Equation** 
 - Two separate programs (one with CUDA and one with MPI) solves for NxN (up to 256x256) thin plate for I iterations (10,000+) with a border around the thin plate held at 100 deg C and one short segment held at 20 deg C using parallel programming and GPU to solve effectively with high efficiency for large quantities of iterative computations.
 
-**Buzzy's Revenge Game w/ SFML API in C++**
+**Buzzy's Revenge Game w/ SFML API in C++** 
 SW Programmer, ECE4122
 - Programmed an "angry-birds" type of game with features including opening screens, controls for changing initial velocity and launch angle, animated simple projectile motion path, rotation of "buzzy" based on direction of travel in air, point systems based on enemies hit, thread safe randomization of new level creation, moving targets, lives, scoring system and display, visual indicators for game state, etc.
 
-**Modified Project Euler Problems**
+**Modified Project Euler Problems** 
 SW Programmer, ECE4122
 [Project Euler Link](https://projecteuler.net/)
 Problems were modified to be more challenging and different from the existing problems online.
