@@ -76,10 +76,9 @@ Waste water treatment company that develops and designs modular, on-site bioreac
 CIRA is a nexus for multi-disciplinary cooperation between atmospheric and NOAA research scientists
 - Gathered NOAA weather station data, parsed and analyzed the data (CSV files), with Fortran models, MATLAB, and GrADs (atmospheric science visual data analysis tool) and presented at Third Pole Environmental Conference
 - Worked with senior research scientist, Dr. Glen Liston to perform data analysis and modeling on regional conditional variations specifically within the Rocky Mountains, Alaska, and Greenland Ice sheets
-![CIRA_NOAA_researchlab](./assets/CIRA.jpg =200x100)  
-![grads](./assets/grads.png =250x100)  
-![snowdensity](./assets/snowden.png =300x100) 
 <img src="./assets/CIRA.jpg" width="600" height="250">  
+<img src="./assets/grads.png" width="600" height="250">  
+<img src="./assets/snowden.png" width="300" height="800">  
 
 ----
 ## Projects <a name = "projects"></a>  
