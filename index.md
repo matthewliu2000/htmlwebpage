@@ -25,7 +25,7 @@ This webpage is a fun independent project created for Technical Communications C
 It is hosted and powered by Github Pages/Jekyll and the original theme is by [Matt Graham](https://github.com/mattgraham)  
 I used Markdown which is a simple, light-weight syntax for styling writing.   
 You can fork/clone this project at my github [repository page](https://github.com/matthewliu2000/page)  
-![drone sim](https://media.giphy.com/media/P2zNidvSMBVJPJ1LjU/giphy.gif)
+![drone sim](https://media.giphy.com/media/P2zNidvSMBVJPJ1LjU/giphy.gif)  
 Back to [Top](#top)!
 
 ---
