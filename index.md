@@ -92,13 +92,24 @@ SW Programmer, ECE4122
 - Multi-threaded each UAV so each UAV is controlled by a separate thread that updates kinematic information every 10msec  
 - Flight path of each UAV follows kinematic rules F=ma, equations of motion for constant acceleration in each direction, and demonstrate elastic collisions between other UAVs
 - Each UAV must launch off ground after 5s, go towards point 0,0,50, and fly along surface of 10m radius virtual sphere for 60 seconds  
+- [source code](https://drive.google.com/drive/folders/11OqU7mCx292uWnxYCxQ_KdZl6XWytab0?usp=sharing) and [video demo](https://youtu.be/n6rvFMKC4cA) and [controls demo](https://streamable.com/w8o08f)
 
 **CUDA and MPI programs to simulate 2D Steady State Heat Conduction in a Thin Plate using LaPlace's Equation**  
-- Two separate programs (one with CUDA and one with MPI) solves for NxN (up to 256x256) thin plate for I iterations (10,000+) with a border around the thin plate held at 100 deg C and one short segment held at 20 deg C using parallel programming and GPU to solve effectively with high efficiency for large quantities of iterative computations.  
+SW Programmer, ECE4122   
+- Two separate programs (one with CUDA and one with MPI) solves for NxN (up to 256x256) thin plate for I iterations (10,000+) with a border around the thin plate held at 100 deg C and one short segment held at 20 deg C using parallel programming and GPU to solve effectively with high efficiency for large quantities of iterative computations. 
+- [CUDA source code](https://drive.google.com/drive/folders/1BJDygxs-vImVdFfjZgTDAXO4bY23C1Lr?usp=sharing)  
+- [MPI Source code](https://drive.google.com/drive/folders/12yZ2g6oW__W-sFlzhfoRhgXQoFZ11rB2?usp=sharing)  
 
 **Buzzy's Revenge Game w/ SFML API in C++**  
 SW Programmer, ECE4122
-- Programmed an "angry-birds" type of game with features including opening screens, controls for changing initial velocity and launch angle, animated simple projectile motion path, rotation of "buzzy" based on direction of travel in air, point systems based on enemies hit, thread safe randomization of new level creation, moving targets, lives, scoring system and display, visual indicators for game state, etc.
+- Programmed an "angry-birds" type of game with features including opening screens, controls for changing initial velocity and launch angle, animated simple projectile motion path, rotation of "buzzy" based on direction of travel in air, point systems based on enemies hit, thread safe randomization of new level creation, moving targets, lives, scoring system and display, visual indicators for game state, etc.  
+- [source code](https://drive.google.com/drive/folders/17d2DRcY1x7kelVNQQIY0uGiVGCJZBWdP?usp=sharing) and [video demo](https://youtu.be/woYVoB2_Ohg) and [devmode demo](https://youtu.be/Y2VFRfzD_hs)
+
+**TCP Sockets: Debugging Logging Server and Client**  
+SW Programmer, ECE4122
+- Wrote console programs that takes as a single command line argument the port number on
+which the TCP Server will listen for multiple simultaneous connection/disconnection requests from clients.
+- [source code](https://drive.google.com/drive/folders/10vtUW9MzG5V-Yc1rK1A5kOrwns97AAC1?usp=sharing)
 
 **Modified Project Euler Problems**  
 SW Programmer, ECE4122  
