@@ -111,11 +111,11 @@ SW Programmer, ECE4122
 - Programmed an "angry-birds" type of game with features including opening screens, controls for changing initial velocity and launch angle, animated simple projectile motion path, rotation of "buzzy" based on direction of travel in air, point systems based on enemies hit, thread safe randomization of new level creation, moving targets, lives, scoring system and display, visual indicators for game state, etc.  
 - [source code](https://drive.google.com/drive/folders/17d2DRcY1x7kelVNQQIY0uGiVGCJZBWdP?usp=sharing) and [video demo](https://youtu.be/woYVoB2_Ohg) and [devmode demo](https://youtu.be/Y2VFRfzD_hs)
 
-**Cache Lab**
+**Cache Lab**  
 SW Programmer, ECE3058
 - Determined hit rates, miss rates, and writeback traffic for various configruation of a 64 Kbyte unified set associative cache with LRU replacement policy, assuming a cold cache for each trace. C language used for virtual implementation
 - Compared this data on hit rates, miss rates, and traffic with a multi-0level (L1 and inclusive L2) cache with two direct mapped L1 caches for instruction and data, and a 56 Kbyte K-way set associative unified L2 cache with a line size of 64 bytes and write-back update policy
-- [source code] (https://drive.google.com/drive/folders/16nxWOft03y81ayC7ftXs7VQXdfp68eyR?usp=sharing)
+- [source code](https://drive.google.com/drive/folders/16nxWOft03y81ayC7ftXs7VQXdfp68eyR?usp=sharing)
 
 **TCP Sockets: Debugging Logging Server and Client**  
 SW Programmer, ECE4122
